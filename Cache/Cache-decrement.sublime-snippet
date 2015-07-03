@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Cache::decrement('${1:key}', ${2:\$amount});
+]]></content>
+    <tabTrigger>Cache::decrement</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Decrement a Cached value</description>
+</snippet>

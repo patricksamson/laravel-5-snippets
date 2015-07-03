@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Cache::forget('${1:key}');
+]]></content>
+    <tabTrigger>Cache::forget</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Remove an Item from the Cache</description>
+</snippet>

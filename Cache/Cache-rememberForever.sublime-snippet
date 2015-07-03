@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+Cache::rememberForever('${1:users}', function()
+{
+
+});
+]]></content>
+    <tabTrigger>Cache::rememberForever</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Retrieve item or Store a default value permanently</description>
+</snippet>

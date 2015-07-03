@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Cache::put('${1:key}', '${2:value}', ${3:\$minutes});
+]]></content>
+    <tabTrigger>Cache::put</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Store an item in the Cache (key, value, minutes)</description>
+</snippet>
