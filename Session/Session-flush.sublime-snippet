@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$${1:request}->session()->flush();
+]]></content>
+    <tabTrigger>Session::flush</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Remove All Items from the Session</description>
+</snippet>

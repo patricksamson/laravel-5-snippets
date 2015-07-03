@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$${1:request}->session()->flash('${2:key}', '${3:value}');
+]]></content>
+    <tabTrigger>Session::flash</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Flash an Item in the Session</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$${1:request}->session()->all();
+]]></content>
+    <tabTrigger>Session::all</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Retrieve All Data from the Session</description>
+</snippet>

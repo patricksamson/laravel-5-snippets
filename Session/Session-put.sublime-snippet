@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$${1:request}->session()->put('${2:key}', '${3:value}');
+]]></content>
+    <tabTrigger>Session::put</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Store an Item in the Session</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$${1:request}->session()->keep(${2:['firstKey', 'secondKey']});
+]]></content>
+    <tabTrigger>Session::keep</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Reflash Only a Subset of Flash Data</description>
+</snippet>

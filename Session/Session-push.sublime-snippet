@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$${1:request}->session()->push('${2:key.subArray}', '${3:value}');
+]]></content>
+    <tabTrigger>Session::push</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Push a Value onto an Array Session Value</description>
+</snippet>
