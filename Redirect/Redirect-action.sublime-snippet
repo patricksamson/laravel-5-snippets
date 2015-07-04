@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+redirect()->action('${HomeController@index}', [${2:\$id}]);
+]]></content>
+    <tabTrigger>Redirect::action</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Redirect to a controller action, with parameters</description>
+</snippet>

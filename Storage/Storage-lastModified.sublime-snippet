@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Storage::lastModified(${1:path});
+]]></content>
+	<tabTrigger>Storage::lastModified</tabTrigger>
+	<scope>source.php, source.html</scope>
+	<description>Returns the UNIX timestamp of the last time the file was modified</description>
+</snippet>

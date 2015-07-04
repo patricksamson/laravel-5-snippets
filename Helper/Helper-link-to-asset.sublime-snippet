@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+link_to_asset(${1:'foo/bar.zip'}, ${2:\$title}, ${3:\$attributes}, ${4:\$secure});
+]]></content>
+    <tabTrigger>Helper::linkToAsset</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Generate a HTML link to the given asset.</description>
+</snippet>

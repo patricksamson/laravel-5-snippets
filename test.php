@@ -1,0 +1,5 @@
+<?php
+response()->json($array);
+
+
+ ?>

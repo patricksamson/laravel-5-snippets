@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+${1:\$value} = array_last(${2:\$array}, function(${3:\$key}, ${4:\$value})
+{
+    return ${4:\$value} > 350;
+}, $default);
+]]></content>
+    <tabTrigger>Helper::arrayLast</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <!-- <description>@todo add description</description> -->
+</snippet>

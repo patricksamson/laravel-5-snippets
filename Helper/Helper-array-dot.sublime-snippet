@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+array_dot(${1:\$array});
+]]></content>
+    <tabTrigger>Helper::arrayDot</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <!-- <description>@todo add description</description> -->
+</snippet>

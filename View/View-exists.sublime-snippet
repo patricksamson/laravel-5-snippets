@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+if (view()->exists('${1:name}'))
+{
+	${2://}
+}
+]]></content>
+    <tabTrigger>View::exists</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Determine if a view exists</description>
+</snippet>

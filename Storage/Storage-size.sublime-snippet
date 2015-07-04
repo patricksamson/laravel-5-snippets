@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Storage::size(${1:path});
+]]></content>
+	<tabTrigger>Storage::size</tabTrigger>
+	<scope>source.php, source.html</scope>
+	<description>Get the size of the file in bytes</description>
+</snippet>

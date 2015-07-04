@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$response->make(${1:\$contents}, ${1:\$headers});
+]]></content>
+	<tabTrigger>Response::make</tabTrigger>
+	<scope>source.php, source.html</scope>
+	<description>Create a Custom Response</description>
+</snippet>

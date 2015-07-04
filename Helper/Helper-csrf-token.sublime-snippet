@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+csrf_token();
+]]></content>
+    <tabTrigger>Helper::csrfToken</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Get the value of the current CSRF token.</description>
+</snippet>

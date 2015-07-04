@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+Auth::check()
+]]></content>
+	<tabTrigger>Auth::check</tabTrigger>
+	<scope>source.php</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$response->withCookie(cookie('${1:name}', '${2:value}'));
+]]></content>
+	<tabTrigger>Cookie::forever</tabTrigger>
+	<scope>source.php, source.html</scope>
+	<description>Make a Permanent Cookie</description>
+</snippet>

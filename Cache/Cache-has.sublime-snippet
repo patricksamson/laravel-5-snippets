@@ -2,7 +2,7 @@
     <content><![CDATA[
 if (Cache::has('${1:key}'))
 {
-
+	${2://}
 }
 ]]></content>
     <tabTrigger>Cache::has</tabTrigger>

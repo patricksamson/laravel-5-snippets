@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+head(${1:\$this->returnsArray('foo')});
+]]></content>
+    <tabTrigger>Helper::head</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>@todo add description</description>
+</snippet>

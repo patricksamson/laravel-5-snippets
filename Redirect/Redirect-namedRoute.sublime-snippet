@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+redirect()->route('${named route}', [${2:\$id}]);
+]]></content>
+    <tabTrigger>Redirect::namedRoute</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Redirect to a named route, with parameters</description>
+</snippet>

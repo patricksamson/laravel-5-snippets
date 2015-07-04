@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+array_forget(${1:\$array}, ${2:'names.joe'});
+]]></content>
+    <tabTrigger>Helper::arrayForget</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <!-- <description>@todo add description</description> -->
+</snippet>

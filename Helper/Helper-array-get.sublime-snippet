@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+array_get(${1:\$array, ${2:'names.john'}, ${3:'default'});
+]]></content>
+    <tabTrigger>Helper::arrayGet</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <!-- <description>@todo add description</description> -->
+</snippet>

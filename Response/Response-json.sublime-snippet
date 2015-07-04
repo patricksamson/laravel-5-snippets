@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+response()->json(${1:\$data}${2:[, 200]}${3:[, \$headers]});
+]]></content>
+    <tabTrigger>Response::json</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Create a JSON Response</description>
+</snippet>

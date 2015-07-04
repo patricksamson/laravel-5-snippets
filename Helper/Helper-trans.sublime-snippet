@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+trans(${1:'validation.required'}):
+]]></content>
+    <tabTrigger>Helper::trans</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Translate a given language line. Alias of Lang::get.</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+list(${1:\$keys}, ${2:\$values}) = array_divide(${3:\$array});
+]]></content>
+    <tabTrigger>Helper::arrayDivide</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <!-- <description>@todo add description</description> -->
+</snippet>

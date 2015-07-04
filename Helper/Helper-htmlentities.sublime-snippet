@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+e(${1:'<html>foo</html>'});
+]]></content>
+    <tabTrigger>Helper::e</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Run htmlentities over the given string, with UTF-8 support.</description>
+</snippet>

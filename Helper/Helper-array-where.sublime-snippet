@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+${1:\$array} = array_where(${2:\$array}, function(${3:\$key}, ${4:\$value})
+{
+    return is_string(${4:\$value});
+});
+]]></content>
+    <tabTrigger>Helper::arrayWhere</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <!-- <description>@todo add description</description> -->
+</snippet>

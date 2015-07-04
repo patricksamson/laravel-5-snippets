@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+action(${1:'HomeController@getIndex'}, ${2:\$params});
+]]></content>
+    <tabTrigger>Helper::action</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Generate a URL for a given controller action.</description>
+</snippet>

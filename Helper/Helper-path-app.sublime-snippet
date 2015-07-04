@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+app_path();
+]]></content>
+    <tabTrigger>Helper::appPath</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Get the fully qualified path to the app directory.</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Storage::allFiles(${1:directory});
+]]></content>
+	<tabTrigger>Storage::allFiles</tabTrigger>
+	<scope>source.php, source.html</scope>
+	<description>Returns an array of all of the files in a directory and it's sub-directories</description>
+</snippet>

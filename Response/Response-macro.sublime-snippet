@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+\$response->macro('${1:caps}', function(${2:\$value}) use (${3:\$response})
+{
+    return $response->make(${2:\$value});
+});
+]]></content>
+    <tabTrigger>Response::macro</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Create a Response Macro</description>
+</snippet>

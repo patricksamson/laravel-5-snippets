@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Storage::prepend(${1:path}, ${2:Prepended Text});
+]]></content>
+	<tabTrigger>Storage::prepend</tabTrigger>
+	<scope>source.php, source.html</scope>
+	<description>Insert content at the beginning of a file</description>
+</snippet>

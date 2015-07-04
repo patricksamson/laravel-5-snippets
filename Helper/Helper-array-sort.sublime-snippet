@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+${1:\$array} = array_values(array_sort(${2:\$array}, function(${3:\$key}, ${4:\$value})
+{
+    return $value['name'];
+}));
+]]></content>
+    <tabTrigger>Helper::arrayValues</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <!-- <description>@todo add description</description> -->
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+lm(${1:formula}${2:[, data]}${3:[, subset]})
+]]></content>
+	<tabTrigger>Response::test</tabTrigger>
+	<scope>source.php, source.html</scope>
+	<description>Create a Custom Response with this useless long description</description>
+</snippet>

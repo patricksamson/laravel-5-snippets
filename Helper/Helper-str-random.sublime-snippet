@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+str_random(${1:40});
+]]></content>
+    <tabTrigger>Helper::strRandom</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Generate a random string of the given length.</description>
+</snippet>

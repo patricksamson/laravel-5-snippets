@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+back()${1:->withInput()};
+]]></content>
+    <tabTrigger>Redirect::back</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Redirect to URL, Route or Controller</description>
+</snippet>

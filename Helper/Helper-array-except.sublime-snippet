@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+array_except(${1:\$array}, ${2:['keys', 'to', 'remove']});
+]]></content>
+    <tabTrigger>Helper::arrayExcept</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <!-- <description>@todo add description</description> -->
+</snippet>

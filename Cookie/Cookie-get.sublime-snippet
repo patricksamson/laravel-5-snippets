@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$request->cookie('${1:name}')
+]]></content>
+    <tabTrigger>Cookie::get</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Retrieve a Cookie value</description>
+</snippet>

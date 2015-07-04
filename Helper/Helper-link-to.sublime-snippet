@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+link_to(${1:'foo/bar'}, ${2:\$title}, ${3:\$attributes}, ${4:\$secure});
+]]></content>
+    <tabTrigger>Helper::linkTo</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Generate a HTML link to the given URL.</description>
+</snippet>

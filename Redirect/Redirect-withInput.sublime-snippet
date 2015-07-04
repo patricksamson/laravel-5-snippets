@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+redirect('${1:form}')
+        ->withInput(${2:\$request->except('password')});
+]]></content>
+    <tabTrigger>Redirect::withInput</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Redirect to URL, Route or Controller with Input</description>
+</snippet>

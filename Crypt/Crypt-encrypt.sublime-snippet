@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Crypt::encrypt(${1:value});
+]]></content>
+	<tabTrigger>Crypt::encrypt</tabTrigger>
+	<scope>source.php, source.html</scope>
+	<description>Encrypt a value</description>
+</snippet>

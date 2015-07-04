@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+view(${1:'name'}, [
+	'${2:key}' => ${3:\$value},
+]);
+]]></content>
+    <tabTrigger>View::render</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Render a view with some data</description>
+</snippet>

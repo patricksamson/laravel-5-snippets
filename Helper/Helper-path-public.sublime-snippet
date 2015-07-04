@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+public_path();
+]]></content>
+    <tabTrigger>Helper::publicPath</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Get the fully qualified path to the public directory.</description>
+</snippet>

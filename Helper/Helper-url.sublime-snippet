@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+url(${1:'foo/bar'}, ${2:\$parameters}, ${3:\$secure});
+]]></content>
+    <tabTrigger>Helper::url</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Generate a fully qualified URL to the given path.</description>
+</snippet>

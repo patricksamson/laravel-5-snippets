@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+str_contains(${1:'This is my name'}, ${2:'my'});
+]]></content>
+    <tabTrigger>Helper::strContains</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Determine if the given haystack contains the given needle.</description>
+</snippet>

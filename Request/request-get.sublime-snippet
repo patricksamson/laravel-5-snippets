@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+$request->get(${1:key})
+]]></content>
+	<tabTrigger>$request->get()</tabTrigger>
+	<scope>source.php</scope>
+</snippet>

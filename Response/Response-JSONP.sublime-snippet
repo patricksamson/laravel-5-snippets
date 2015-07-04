@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+response()->jsonp(${1:\$callback}, ${2:\$data}${3:[, 200]}${4:[, \$headers]});
+]]></content>
+    <tabTrigger>Response::jsonp</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Create a JSONP Response</description>
+</snippet>

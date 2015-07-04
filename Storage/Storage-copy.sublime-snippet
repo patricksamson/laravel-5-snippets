@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Storage::copy(${1:path}, ${2:target});
+]]></content>
+	<tabTrigger>Storage::copy</tabTrigger>
+	<scope>source.php, source.html</scope>
+	<description>Copy an existing file to another location on the disk</description>
+</snippet>
