@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Config::has(${1:key})
+]]></content>
+    <tabTrigger>Config::has</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Determine if the given configuration value exists.</description>
+</snippet>

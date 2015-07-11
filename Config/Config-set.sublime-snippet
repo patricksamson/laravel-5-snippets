@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+config(['${1:key}' => '${2:value}']);
+]]></content>
+    <tabTrigger>Config::set</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Set a given configuration value.</description>
+</snippet>

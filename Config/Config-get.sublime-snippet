@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+config('${1:key}', '${2:default}');
+]]></content>
+    <tabTrigger>Config::get</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Get the specified configuration value.</description>
+</snippet>
