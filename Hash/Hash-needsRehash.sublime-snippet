@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Hash::needsRehash(${1:hashedValue}, ${2:options})
+]]></content>
+    <tabTrigger>Hash::needsRehash</tabTrigger>
+    <scope>source.php</scope>
+    <description>Check if the given hash has been hashed using the given options.</description>
+</snippet>
