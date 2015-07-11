@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Log::critical(${1:message})s
+]]></content>
+    <tabTrigger>Log::critical</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Log a critical message to the logs.</description>
+</snippet>

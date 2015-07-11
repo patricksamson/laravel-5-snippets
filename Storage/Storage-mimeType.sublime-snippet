@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Storage::mimeType(${1:path});
+]]></content>
+	<tabTrigger>Storage::mimeType</tabTrigger>
+	<scope>source.php, source.html</scope>
+	<description>Get the mime-type of a given file.</description>
+</snippet>
