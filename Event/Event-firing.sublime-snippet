@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Event::firing()
+]]></content>
+    <tabTrigger>Event::firing</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Get the event that is currently firing.</description>
+</snippet>

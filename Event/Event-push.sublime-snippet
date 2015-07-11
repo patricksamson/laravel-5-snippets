@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Event::push(${1:event}, ${2:payload});
+]]></content>
+    <tabTrigger>Event::push</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Register an event and payload to be fired later.</description>
+</snippet>

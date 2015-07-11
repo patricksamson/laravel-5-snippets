@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-Log::useFiles(${1:path}, ${2:level})
+Log::useFiles(${1:path}, ${2:level});
 ]]></content>
     <tabTrigger>Log::useFiles</tabTrigger>
     <scope>source.php, source.html</scope>

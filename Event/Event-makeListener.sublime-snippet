@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Event::makeListener(${1:listener});
+]]></content>
+    <tabTrigger>Event::makeListener</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Register an event listener with the dispatcher.</description>
+</snippet>

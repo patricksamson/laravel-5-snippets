@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Event::subscribe(${1:subscriber});
+]]></content>
+    <tabTrigger>Event::subscribe</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Register an event subscriber with the dispatcher.</description>
+</snippet>

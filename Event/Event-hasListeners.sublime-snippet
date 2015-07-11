@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Event::hasListeners(${1:eventName});
+]]></content>
+    <tabTrigger>Event::hasListeners</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Determine if a given event has listeners.</description>
+</snippet>

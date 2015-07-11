@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Event::flush(${1:event});
+]]></content>
+    <tabTrigger>Event::flush</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Flush a set of pushed events.</description>
+</snippet>
