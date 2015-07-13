@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+@if (${1:\$condition})
+
+@endif
+]]></content>
+    <tabTrigger>@if</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Blade @if</description>
+</snippet>

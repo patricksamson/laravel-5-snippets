@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+@unless (${1:\$condition})
+
+@endunless
+]]></content>
+    <tabTrigger>@unless</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Blade @unless</description>
+</snippet>

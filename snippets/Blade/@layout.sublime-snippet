@@ -1,0 +1,18 @@
+<snippet>
+    <content><![CDATA[
+@extends('${1:layouts.default}')
+
+@section('${1:sidebar}')
+    @parent
+
+@stop
+
+@section('${1:content}')
+	@include('${1:forms.create}')
+
+@stop
+]]></content>
+    <tabTrigger>@layout</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Blade template skeleton</description>
+</snippet>

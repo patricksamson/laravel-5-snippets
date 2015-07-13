@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+@extends('${1:layouts.name}')
+]]></content>
+    <tabTrigger>@extends</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Blade @extends</description>
+</snippet>

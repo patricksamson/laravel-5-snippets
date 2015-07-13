@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+@if (${1:\$condition})
+
+@else
+
+@endif
+]]></content>
+    <tabTrigger>@ifelse</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Blade @ifelse</description>
+</snippet>

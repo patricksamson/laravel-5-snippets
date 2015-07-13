@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+@foreach (${1:\$records} as ${2:\$record})
+
+@endforeach
+]]></content>
+    <tabTrigger>@foreach</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Blade @foreach</description>
+</snippet>

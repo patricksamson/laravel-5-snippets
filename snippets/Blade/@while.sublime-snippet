@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+@while (${1:\$condition})
+
+@endwhile
+]]></content>
+    <tabTrigger>@while</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Blade @while</description>
+</snippet>

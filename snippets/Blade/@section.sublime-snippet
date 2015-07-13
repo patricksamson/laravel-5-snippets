@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+@section('${1:content}')
+
+@stop
+]]></content>
+    <tabTrigger>@section</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Blade @section</description>
+</snippet>

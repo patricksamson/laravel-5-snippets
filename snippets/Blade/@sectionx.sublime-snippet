@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+{!!-- Extend @section from parent --!!}
+@section('${1:content}')
+    @parent
+
+@stop
+]]></content>
+    <tabTrigger>@sectionparent</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Blade @section extended</description>
+</snippet>
