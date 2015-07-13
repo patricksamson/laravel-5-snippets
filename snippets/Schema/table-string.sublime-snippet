@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$table->string('${1:name}', ${2:100});
+]]></content>
+    <tabTrigger>Field::string</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>VARCHAR equivalent with a length (optional)</description>
+</snippet>

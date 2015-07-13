@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$request->file('${1:photo}');
+]]></content>
+    <tabTrigger>Input::file</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Retrieve Uploaded File</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$table->date('${1:created_at}');
+]]></content>
+    <tabTrigger>Field::date</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>DATE equivalent to the table</description>
+</snippet>

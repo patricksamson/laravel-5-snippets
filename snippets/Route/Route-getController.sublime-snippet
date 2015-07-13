@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$router->${1:get}('${2:user/{id}}', '${3:UserController@showProfile}');
+]]></content>
+    <tabTrigger>Route::getController</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Route to Controller Action</description>
+</snippet>

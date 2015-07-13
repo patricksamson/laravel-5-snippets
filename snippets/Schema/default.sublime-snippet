@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+->default(${1:\$value});
+]]></content>
+    <tabTrigger>Field::default</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Declare a default value for a column</description>
+</snippet>

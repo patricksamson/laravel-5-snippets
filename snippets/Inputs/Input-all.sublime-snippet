@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$request->all();
+]]></content>
+    <tabTrigger>Input::all</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Retrieve all Inputs</description>
+</snippet>

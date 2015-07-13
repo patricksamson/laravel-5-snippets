@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-$request->all()
-]]></content>
-	<tabTrigger>$request->all()</tabTrigger>
-	<scope>source.php</scope>
-</snippet>

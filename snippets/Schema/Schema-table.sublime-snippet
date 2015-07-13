@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+Schema::table('${1:users}', function(${2:\$table})
+{
+
+});
+]]></content>
+    <tabTrigger>Schema::table</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Update an existing table</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$table->tinyInteger('${1:numbers}');
+]]></content>
+    <tabTrigger>Field::tinyInteger</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>TINYINT equivalent to the table</description>
+</snippet>

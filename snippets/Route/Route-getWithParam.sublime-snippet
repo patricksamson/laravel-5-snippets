@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+\$router->${1:get}('${2:user/{id}}', function(${3:\$id})
+{
+
+});
+]]></content>
+    <tabTrigger>Route::withParam</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Route parameters with defaults</description>
+</snippet>

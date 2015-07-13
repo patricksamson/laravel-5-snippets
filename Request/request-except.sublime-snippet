@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-$request->except(${1:key})
-]]></content>
-	<tabTrigger>$request->except()</tabTrigger>
-	<scope>source.php</scope>
-</snippet>

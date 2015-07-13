@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$request->has('${1:name}');
+]]></content>
+    <tabTrigger>Input::has</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Determine if Input Value is Present</description>
+</snippet>

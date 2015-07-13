@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$table->bigIncrements('${1:id}');
+]]></content>
+    <tabTrigger>Field::bigIncrements</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Incrementing ID using a "big integer" equivalent.</description>
+</snippet>

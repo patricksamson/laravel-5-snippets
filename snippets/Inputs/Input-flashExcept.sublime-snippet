@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$request->flashExcept('${1:password}');
+]]></content>
+    <tabTrigger>Input::flashExcept</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Flash only some Input to the Session</description>
+</snippet>

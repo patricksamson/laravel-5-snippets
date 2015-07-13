@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$table->increments('${1:id}');
+]]></content>
+    <tabTrigger>Field::increments</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Incrementing ID</description>
+</snippet>

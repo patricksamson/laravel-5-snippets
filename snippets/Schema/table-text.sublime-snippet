@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$table->text('${1:description}');
+]]></content>
+    <tabTrigger>Field::text</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>TEXT equivalent to the table</description>
+</snippet>

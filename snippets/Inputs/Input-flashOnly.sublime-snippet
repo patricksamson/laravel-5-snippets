@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$request->flashOnly('${1:username}');
+]]></content>
+    <tabTrigger>Input::flashOnly</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Flash only some Input to the Session</description>
+</snippet>

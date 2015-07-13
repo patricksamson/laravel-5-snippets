@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$table->rememberToken();
+]]></content>
+    <tabTrigger>Field::string</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>VARCHAR equivalent with a length (optional)</description>
+</snippet>

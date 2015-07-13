@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+\$router->group(${1:['before' => 'auth', 'namespace' => 'Dashboard']}, function(${2:\$router})
+{
+
+});
+]]></content>
+    <tabTrigger>Route::group</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Create a Group of Routes</description>
+</snippet>

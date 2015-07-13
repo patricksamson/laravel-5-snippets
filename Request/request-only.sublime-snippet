@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-$request->only(${1:key})
-]]></content>
-	<tabTrigger>$request->only()</tabTrigger>
-	<scope>source.php</scope>
-</snippet>

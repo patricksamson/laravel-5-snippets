@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$router->resource('${1:photo}', '${2:PhotoController}');
+]]></content>
+    <tabTrigger>Route::resource</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Route to a RESTful Controller</description>
+</snippet>

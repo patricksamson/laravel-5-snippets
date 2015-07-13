@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+\$router->${1:get}('${2:user/profile}', ['as' => '${3:profile}', function()
+{
+
+}]);
+]]></content>
+    <tabTrigger>Route::getNamed</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Create Named Route</description>
+</snippet>

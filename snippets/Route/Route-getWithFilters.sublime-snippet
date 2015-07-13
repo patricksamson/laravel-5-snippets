@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+\$router->${1:get}('name', ['admin', function()
+{
+
+}]);
+]]></content>
+    <tabTrigger>Route::getWithFilters</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Attaching Filter(s) to a route</description>
+</snippet>

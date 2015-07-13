@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$table->mediumText('${1:mediumText}');
+]]></content>
+    <tabTrigger>Field::mediumText</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>MEDIUMTEXT equivalent to the table</description>
+</snippet>

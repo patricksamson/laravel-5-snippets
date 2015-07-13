@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$table->dropColumn('${1:votes}');
+]]></content>
+    <tabTrigger>Field::dropColumn</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Drop a column</description>
+</snippet>

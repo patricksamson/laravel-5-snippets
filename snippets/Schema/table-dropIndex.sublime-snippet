@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$table->dropIndex('${1:geo_state_index}');
+]]></content>
+    <tabTrigger>Field::dropIndex</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Drop a basic Index</description>
+</snippet>

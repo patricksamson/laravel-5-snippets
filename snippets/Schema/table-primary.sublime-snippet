@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$table->primary('${1:id}');
+]]></content>
+    <tabTrigger>Field::primary</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Add a primary or array of composite keys</description>
+</snippet>

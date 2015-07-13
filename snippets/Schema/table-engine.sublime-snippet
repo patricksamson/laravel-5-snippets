@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$table->engine = '${1:InnoDB}';
+]]></content>
+    <tabTrigger>Field::engine</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Set the storage engine for a table</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$table->boolean('${1:confirmed}');
+]]></content>
+    <tabTrigger>Field::boolean</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>BOOLEAN equivalent to the table</description>
+</snippet>

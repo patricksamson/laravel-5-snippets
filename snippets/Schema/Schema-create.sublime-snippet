@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+Schema::create('${1:users}', function(${2:\$table})
+{
+    \$table->increments('${3:id}');
+
+});
+]]></content>
+    <tabTrigger>Schema::create</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Create new table</description>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+\$router->match(${1:['get', 'post']}, '${2:/}', function()
+{
+
+});
+]]></content>
+    <tabTrigger>Route::match</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Registering A Route For Multiple Verbs</description>
+</snippet>

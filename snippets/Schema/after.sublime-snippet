@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+->after('${1:email}');
+]]></content>
+    <tabTrigger>Field::after</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Add Column AFTER</description>
+</snippet>

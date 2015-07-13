@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$request->input('${1:name}');
+]]></content>
+    <tabTrigger>Input::get</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Retrieve an Input value</description>
+</snippet>

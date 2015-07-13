@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$table->bigInteger('${1:votes}');
+]]></content>
+    <tabTrigger>Field::bigInteger</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>BIGINT equivalent to the table</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$request->file('${1:photo}')->move(${2:\$destinationPath}, ${3:\$fileName});
+]]></content>
+    <tabTrigger>Input::fileMove</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Move an Uploaded File</description>
+</snippet>

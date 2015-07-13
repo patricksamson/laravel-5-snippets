@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$table->time('${1:sunrise}');
+]]></content>
+    <tabTrigger>Field::time</tabTrigger>
+    <!-- <scope>source.python</scope> -->
+    <description>TIME equivalent to the table</description>
+</snippet>

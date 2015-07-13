@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+if (Schema::hasTable('${1:users}'))
+{
+
+}
+]]></content>
+    <tabTrigger>Schema::hasTable</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Check for existence of table</description>
+</snippet>

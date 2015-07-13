@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$table->float('${1:amount}');
+]]></content>
+    <tabTrigger>Field::float</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>FLOAT equivalent to the table</description>
+</snippet>

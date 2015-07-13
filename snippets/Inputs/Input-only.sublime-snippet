@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$request->only('${1:username}');
+]]></content>
+    <tabTrigger>Input::only</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Retrieve only some of the Request Input</description>
+</snippet>

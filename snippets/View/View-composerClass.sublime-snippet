@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+view()->composer('${1:name}', '${2:App\Http\ViewComposers\SomeComposer}');
+]]></content>
+    <tabTrigger>View::composerClass</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Define a Class-based View Composer</description>
+</snippet>

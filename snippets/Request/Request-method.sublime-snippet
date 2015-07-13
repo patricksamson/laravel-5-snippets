@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$request->get('${1:products.0.name}');
+]]></content>
+    <tabTrigger>Request::method</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Various Request Methods to examine HTTP Requests</description>
+</snippet>
