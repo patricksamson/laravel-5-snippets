@@ -1,0 +1,39 @@
+Laravel 5 Snippets for Sublime Text
+https://github.com/Lykegenes/laravel-five-snippets
+
+
+Version 1.1.0
+********************************************************************************
+
+#### ANNOUNCEMENT
+
+Since the previous author deleted his Github account, this package was missing.
+I took the liberty to update it appropriately for Laravel 5.
+Here are the changes from the original package :
+
+
+#### REMOVED SNIPPETS
+
+	- Form (removed from framework)
+
+
+#### NEW SNIPPETS
+
+	- App
+	- Auth
+	- Config
+	- Crypt
+	- Event
+	- Hash
+	- Log
+	- Storage
+
+
+#### WORK IN PROGRESS
+
+	- Route : Need some clean up, currently as-is from original package
+	- Request : A lot of functions are currently missing
+	- Eloquent snippets
+	- DB Facade snippets
+	- Localization snippets
+	- And more, I want full coverage of the framework
