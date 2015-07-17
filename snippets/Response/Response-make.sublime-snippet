@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-\$response->make(${1:\$contents}, ${1:\$headers});
+\$response->make(${1:\$contents}${2:[, 200]}${3:[, \$headers]});
 ]]></content>
 	<tabTrigger>Response::make</tabTrigger>
 	<scope>source.php, source.html</scope>
