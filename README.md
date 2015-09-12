@@ -1,18 +1,17 @@
 # Laravel 5 Snippets for Sublime Text
-=============================
 
 ### Installation
-**With the Package Control plugin**
+**With the Package Control plugin** :
 The easiest way to install **Laravel 5 Snippets** is through Package Control, which can be found at [http://wbond.net/sublime_packages/package_control](http://wbond.net/sublime_packages/package_control).
 
 ```
-Using Package Manager search for "Laravel 5 Snippets"
+Using Package Manager, search for "Laravel 5 Snippets"
 ```
 
-**Without Git**
+**Without Git** :
 Download the latest source from GitHub and copy the "Laravel 5 Sippets" folder to your Sublime Text "Packages" directory.
 
-**With Git**
+**With Git** :
 Clone the repository in your Sublime Text "Packages" directory:
 
 ```
