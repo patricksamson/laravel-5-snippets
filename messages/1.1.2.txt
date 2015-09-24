@@ -1,0 +1,13 @@
+Laravel 5 Snippets for Sublime Text
+https://github.com/Lykegenes/laravel-five-snippets
+
+
+Version 1.1.2
+********************************************************************************
+
+#### Changes
+
+- PSR-2 Compliance
+
+
+Improvements or suggestions? Contribute on GitHub!
