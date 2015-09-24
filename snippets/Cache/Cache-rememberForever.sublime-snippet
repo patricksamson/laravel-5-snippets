@@ -1,7 +1,6 @@
 <snippet>
     <content><![CDATA[
-Cache::rememberForever('${1:users}', function()
-{
+Cache::rememberForever('${1:users}', function() {
 
 });
 ]]></content>

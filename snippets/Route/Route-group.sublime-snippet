@@ -1,7 +1,6 @@
 <snippet>
     <content><![CDATA[
-\$router->group(${1:['before' => 'auth', 'namespace' => 'Dashboard']}, function(${2:\$router})
-{
+\$router->group(${1:['before' => 'auth', 'namespace' => 'Dashboard']}, function(${2:\$router}) {
 
 });
 ]]></content>

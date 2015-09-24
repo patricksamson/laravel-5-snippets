@@ -1,7 +1,6 @@
 <snippet>
     <content><![CDATA[
-View::creator(${1:'profile'}, function(${2:\$view})
-{
+View::creator(${1:'profile'}, function(${2:\$view}) {
 
 });
 ]]></content>

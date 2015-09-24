@@ -1,7 +1,6 @@
 <snippet>
     <content><![CDATA[
-\$router->${1:get}('${2:user/{id}}', function(${3:\$id})
-{
+\$router->${1:get}('${2:user/{id}}', function(${3:\$id}) {
 
 });
 ]]></content>

@@ -1,7 +1,6 @@
 <snippet>
     <content><![CDATA[
-${1:\$value} = array_first(${2:\$array}, function(${3:\$key}, ${4:\$value})
-{
+${1:\$value} = array_first(${2:\$array}, function(${3:\$key}, ${4:\$value}) {
     return ${4:\$value} >= 150;
 }, $default);
 ]]></content>

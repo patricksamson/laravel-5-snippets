@@ -1,7 +1,6 @@
 <snippet>
     <content><![CDATA[
-\$router->match(${1:['get', 'post']}, '${2:/}', function()
-{
+\$router->match(${1:['get', 'post']}, '${2:/}', function() {
 
 });
 ]]></content>

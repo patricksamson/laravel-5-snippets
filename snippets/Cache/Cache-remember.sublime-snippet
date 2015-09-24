@@ -1,7 +1,6 @@
 <snippet>
     <content><![CDATA[
-Cache::remember('${1:users}', ${2:\$minutes}, function()
-{
+Cache::remember('${1:users}', ${2:\$minutes}, function() {
 
 });
 ]]></content>

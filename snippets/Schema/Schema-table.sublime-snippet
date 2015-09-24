@@ -1,7 +1,6 @@
 <snippet>
     <content><![CDATA[
-Schema::table('${1:users}', function(${2:\$table})
-{
+Schema::table('${1:users}', function(${2:\$table}) {
 
 });
 ]]></content>

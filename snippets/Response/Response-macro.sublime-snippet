@@ -1,7 +1,6 @@
 <snippet>
     <content><![CDATA[
-\$response->macro('${1:caps}', function(${2:\$value}) use (${3:\$response})
-{
+\$response->macro('${1:caps}', function(${2:\$value}) use (${3:\$response}) {
     return $response->make(${2:\$value});
 });
 ]]></content>
