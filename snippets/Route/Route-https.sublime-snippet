@@ -1,7 +1,6 @@
 <snippet>
     <content><![CDATA[
-\$router->${1:get}('${2:foo}', ['https', function()
-{
+\$router->${1:get}('${2:foo}', ['https', function() {
 
 }]);
 ]]></content>
