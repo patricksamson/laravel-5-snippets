@@ -1,5 +1,7 @@
 # Laravel 5 Snippets for Sublime Text
 
+[![Package Control](https://packagecontrol.herokuapp.com/downloads/Laravel%205%20Snippets.svg?style=flat-square)](https://packagecontrol.io/packages/Laravel%205%20Snippets)
+
 ### Installation
 **With the Package Control plugin** :
 The easiest way to install **Laravel 5 Snippets** is through Package Control, which can be found at [http://wbond.net/sublime_packages/package_control](http://wbond.net/sublime_packages/package_control).
