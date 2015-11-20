@@ -1,6 +1,6 @@
 # Laravel 5 Snippets for Sublime Text
 
-[![Package Control](https://packagecontrol.herokuapp.com/downloads/Laravel%205%20Snippets.svg?style=flat-square)](https://packagecontrol.io/packages/Laravel%205%20Snippets)
+[![Package Control][ico-package-control]][link-package-control]
 
 ### Installation
 **With the Package Control plugin** :
@@ -26,3 +26,18 @@ Sublime Text treats the '@' character as a "character that is considered to sepa
 ```
 "word_separators": "./\\()\"'-:,.;<>~!#$%^&*|+=[]{}`~?"
 ```
+
+## Credits
+
+- [Patrick Samson][link-author]
+- [All Contributors][link-contributors]
+
+## License
+
+The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+
+[ico-package-control]: https://packagecontrol.herokuapp.com/downloads/Laravel%205%20Snippets.svg?style=flat-square
+
+[link-package-control]: https://packagecontrol.io/packages/Laravel%205%20Snippets
+[link-author]: https://github.com/lykegenes
+[link-contributors]: ../../contributors
