@@ -1,0 +1,9 @@
+
+<snippet>
+    <content><![CDATA[
+@stack('${1:stack name}')
+]]></content>
+    <tabTrigger>@stack</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Blade @stack</description>
+</snippet>
