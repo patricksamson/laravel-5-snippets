@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
-{!!-- ${1:some comment} --!!}
+{{-- ${1:some hidden comment} --}}
 ]]></content>
-    <tabTrigger>{!!--</tabTrigger>
+    <tabTrigger>{{--</tabTrigger>
     <scope>source.php, source.html</scope>
     <description>Blade comments</description>
 </snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+@choice('${1:file.message}', ${2:\$count})
+]]></content>
+    <tabTrigger>@choice</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Blade @choice</description>
+</snippet>

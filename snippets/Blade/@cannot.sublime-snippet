@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+@cannot('${1:ability}', ${2:\$object})
+    ${3}
+@endcannot
+]]></content>
+    <tabTrigger>@cannot</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Blade @cannot</description>
+</snippet>

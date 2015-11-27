@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+@lang('${1:file.message}')
+]]></content>
+    <tabTrigger>@lang</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Blade @lang</description>
+</snippet>

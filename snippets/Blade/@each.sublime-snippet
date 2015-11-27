@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+@each('${1:view.name}', ${2:\$collection}, ${3:'variable name'}, ${4:'view.empty'})
+]]></content>
+    <tabTrigger>@each</tabTrigger>
+    <scope>source.php, source.html</scope>
+    <description>Blade @each</description>
+</snippet>

@@ -1,0 +1,27 @@
+Laravel 5 Snippets for Sublime Text
+https://github.com/Lykegenes/laravel-five-snippets
+
+
+Version 1.1.3
+********************************************************************************
+
+#### ADDITIONAL CONFIGURATION
+
+Sublime Text treats the '@' character as a "character that is considered to separate words".
+This prevents the Blade snippets included in this package from triggering until you type
+the whole tabTrigger parameter. To fix this, just add this line to your user preferences:
+
+"word_separators": "./\\()\"'-:,.;<>~!#$%^&*|+=[]{}`~?"
+
+
+#### NEW SNIPPETS
+
+A few snippets were added, specifically for Blade :
+	- @can and @cannot  - These are used for Authorization purposes
+	- @each
+	- @lang  - for I18n directly in Blade
+	- @push and @stack  - Mainly used to add view-specific CSS and JS in a clean way
+	- @{{  - These curvy braces will not be processed by Blade; useful for JS frameworks (Angular)
+	- {{--   To add comments in Blade views
+
+Improvements or suggestions? Contribute on GitHub!
