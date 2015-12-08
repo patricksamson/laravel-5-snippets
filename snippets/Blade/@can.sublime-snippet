@@ -7,6 +7,6 @@
 @endcan
 ]]></content>
     <tabTrigger>@can</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>text.html.laravel-blade, text.blade</scope>
     <description>Blade @can</description>
 </snippet>

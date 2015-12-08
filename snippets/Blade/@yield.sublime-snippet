@@ -3,6 +3,6 @@
 @yield('${1:content}')
 ]]></content>
     <tabTrigger>@yield</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>text.html.laravel-blade, text.blade</scope>
     <description>Blade @yield</description>
 </snippet>

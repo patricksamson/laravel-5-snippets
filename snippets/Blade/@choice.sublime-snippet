@@ -3,6 +3,6 @@
 @choice('${1:file.message}', ${2:\$count})
 ]]></content>
     <tabTrigger>@choice</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>text.html.laravel-blade, text.blade</scope>
     <description>Blade @choice</description>
 </snippet>

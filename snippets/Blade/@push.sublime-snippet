@@ -5,6 +5,6 @@
 @endpush
 ]]></content>
     <tabTrigger>@push</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>text.html.laravel-blade, text.blade</scope>
     <description>Blade @push</description>
 </snippet>

@@ -7,6 +7,6 @@
 @endforelse
 ]]></content>
     <tabTrigger>@forelse</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>text.html.laravel-blade, text.blade</scope>
     <description>Blade @forelse</description>
 </snippet>

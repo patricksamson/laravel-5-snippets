@@ -5,6 +5,6 @@
 @endforeach
 ]]></content>
     <tabTrigger>@foreach</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>text.html.laravel-blade, text.blade</scope>
     <description>Blade @foreach</description>
 </snippet>

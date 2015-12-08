@@ -3,6 +3,6 @@
 {{-- ${1:some hidden comment} --}}
 ]]></content>
     <tabTrigger>{{--</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>text.html.laravel-blade, text.blade</scope>
     <description>Blade comments</description>
 </snippet>

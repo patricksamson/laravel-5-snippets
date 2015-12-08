@@ -3,6 +3,6 @@
 @include('${1:view.name}', ${1:\$data})
 ]]></content>
     <tabTrigger>@include</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>text.html.laravel-blade, text.blade</scope>
     <description>Blade @include</description>
 </snippet>

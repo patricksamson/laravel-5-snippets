@@ -3,6 +3,6 @@
 @extends('${1:layouts.name}')
 ]]></content>
     <tabTrigger>@extends</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>text.html.laravel-blade, text.blade</scope>
     <description>Blade @extends</description>
 </snippet>
