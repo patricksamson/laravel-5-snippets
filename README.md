@@ -1,5 +1,6 @@
 # Laravel 5 Snippets for Sublime Text
 
+[![Latest Version][ico-latest-version]][link-latest-version]
 [![Package Control][ico-package-control]][link-package-control]
 
 ### Installation
@@ -29,8 +30,10 @@ git clone https://github.com/Lykegenes/laravel-5-snippets.git "Laravel 5 Snippet
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[ico-package-control]: https://packagecontrol.herokuapp.com/downloads/Laravel%205%20Snippets.svg?style=flat-square
+[ico-package-control]: https://img.shields.io/packagecontrol/dt/Laravel%205%20Snippets.svg?style=flat-square
+[ico-latest-version]: https://img.shields.io/github/release/lykegenes/laravel-5-snippets.svg?style=flat-square
 
 [link-package-control]: https://packagecontrol.io/packages/Laravel%205%20Snippets
+[link-latest-version]: https://github.com/Lykegenes/laravel-5-snippets/releases
 [link-author]: https://github.com/lykegenes
 [link-contributors]: ../../contributors
