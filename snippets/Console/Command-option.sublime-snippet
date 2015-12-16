@@ -2,7 +2,7 @@
   <content><![CDATA[
 \$this->option('${1}');
 ]]></content>
-  <tabTrigger>$this->option</tabTrigger>
+  <tabTrigger>Console::option</tabTrigger>
   <scope>source.php</scope>
   <description>Get an option from constructor</description>
 </snippet>

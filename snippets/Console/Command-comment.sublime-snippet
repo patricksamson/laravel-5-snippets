@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+\$this->comment('${1:Message}');
+]]></content>
+  <tabTrigger>Console::comment</tabTrigger>
+  <scope>source.php</scope>
+  <description>Log a comment to the console</description>
+</snippet>
