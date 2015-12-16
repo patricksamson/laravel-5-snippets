@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+\$this->choice('${1:What is your name?', ['Taylor', 'Dayle'], false});
+]]></content>
+  <tabTrigger>Console::choice</tabTrigger>
+  <scope>source.php</scope>
+  <description>Give the user a predefined set of choices</description>
+</snippet>

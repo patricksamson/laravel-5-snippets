@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+\$this->confirm('${1:Do you wish to continue? [y|N]}');
+]]></content>
+  <tabTrigger></tabTrigger>
+  <scope>Console::confirm</scope>
+  <description>Logs a confirmation prompt to the console</description>
+</snippet>
