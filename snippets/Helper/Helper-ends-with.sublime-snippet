@@ -1,8 +1,0 @@
-<snippet>
-    <content><![CDATA[
-ends_with(${1:'This is my name'}, ${2:'name'});
-]]></content>
-    <tabTrigger>Helper::endsWith</tabTrigger>
-    <scope>source.php, source.html</scope>
-    <description>Determine if the given haystack ends with a given needle.</description>
-</snippet>

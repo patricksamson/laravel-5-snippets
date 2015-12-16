@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Schema::drop('${1:table}');
+]]></content>
+    <tabTrigger>Schema::drop</tabTrigger>
+    <scope>source.php</scope>
+    <description>Drop an existing database table</description>
+</snippet>

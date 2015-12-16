@@ -3,6 +3,6 @@
 \$table->timestamp('${1:added_on}');
 ]]></content>
     <tabTrigger>Field::timestamp</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php</scope>
     <description>TIMESTAMP equivalent to the table</description>
 </snippet>

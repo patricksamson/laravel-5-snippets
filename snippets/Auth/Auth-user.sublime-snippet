@@ -4,4 +4,5 @@ Auth::user()
 ]]></content>
 	<tabTrigger>Auth::user</tabTrigger>
 	<scope>source.php</scope>
+    <description>Get the currently authenticated user.</description>
 </snippet>

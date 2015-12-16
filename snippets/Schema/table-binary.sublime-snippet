@@ -3,6 +3,6 @@
 \$table->binary('${1:data}');
 ]]></content>
     <tabTrigger>Field::binary</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php</scope>
     <description>BLOB equivalent to the table</description>
 </snippet>

@@ -1,8 +1,0 @@
-<snippet>
-    <content><![CDATA[
-str_finish(${1:'this/string'}, ${2:'/'});
-]]></content>
-    <tabTrigger>Helper::strFinish</tabTrigger>
-    <scope>source.php, source.html</scope>
-    <description>Determine if a given string matches a given pattern. Asterisks may be used to indicate wildcards.</description>
-</snippet>

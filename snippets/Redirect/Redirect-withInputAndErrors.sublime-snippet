@@ -1,10 +1,9 @@
 <snippet>
     <content><![CDATA[
-redirect('${1:form}')
-		->withInput(${2:\$request->except('password')})
-		->withErrors(${3:\$validator});
+->withInput(${1:\$request->except('key')})
+->withErrors(${2:\$validator})
 ]]></content>
     <tabTrigger>Redirect::withInputAndErrors</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php</scope>
     <description>Redirect with Inputs and Errors</description>
 </snippet>

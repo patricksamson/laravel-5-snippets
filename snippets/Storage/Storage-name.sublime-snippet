@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Storage::name(${1:filePath});
+]]></content>
+	<tabTrigger>Storage::name</tabTrigger>
+	<scope>source.php</scope>
+	<description>Extract the file name from a file path.</description>
+</snippet>

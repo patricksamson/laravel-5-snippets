@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-Storage::put(${1:path}, ${2:\$contents});
+Storage::put(${1:filePath}, ${2:\$contents});
 ]]></content>
 	<tabTrigger>Storage::put</tabTrigger>
-	<scope>source.php, source.html</scope>
+	<scope>source.php</scope>
 	<description>Store a file on disk</description>
 </snippet>

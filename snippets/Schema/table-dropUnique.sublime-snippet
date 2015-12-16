@@ -3,6 +3,6 @@
 \$table->dropUnique('${1:users_email_unique}')
 ]]></content>
     <tabTrigger>Field::dropUnique</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php</scope>
     <description>Drop a Unique Index</description>
 </snippet>

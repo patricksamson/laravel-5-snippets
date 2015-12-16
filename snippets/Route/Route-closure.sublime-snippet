@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+Route::${1:get}('${2:users/{id\\}}', function(${3:$id}) {
+    ${4://}
+});
+]]></content>
+    <tabTrigger>Route::closure</tabTrigger>
+    <scope>source.php</scope>
+    <description>Basic Route with Closure.</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Config::all();
+]]></content>
+    <tabTrigger>Config::all</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get all of the configuration items for the application.</description>
+</snippet>

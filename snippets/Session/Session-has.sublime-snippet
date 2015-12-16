@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
-\$${1:request}->session()->has('${2:key}');
+\$request->session()->has('${1:key}');
 ]]></content>
     <tabTrigger>Session::has</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php</scope>
     <description>Determin if an Item Exists in the Session</description>
 </snippet>

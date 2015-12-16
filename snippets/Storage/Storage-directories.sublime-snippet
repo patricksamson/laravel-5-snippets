@@ -3,6 +3,6 @@
 Storage::directories(${1:directory});
 ]]></content>
 	<tabTrigger>Storage::directories</tabTrigger>
-	<scope>source.php, source.html</scope>
+	<scope>source.php</scope>
 	<description>Returns an array of all the directories within a given directory</description>
 </snippet>

@@ -3,6 +3,6 @@
 \$table->double('${1:column}', ${2:15}, ${3:8});
 ]]></content>
     <tabTrigger>Field::double</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php</scope>
     <description>DOUBLE equivalent with precision</description>
 </snippet>

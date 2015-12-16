@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$request->segment(${1:\$index}, '${2:default}')
+]]></content>
+    <tabTrigger>Request::segment</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get a segment from the URI (1 based index).</description>
+</snippet>

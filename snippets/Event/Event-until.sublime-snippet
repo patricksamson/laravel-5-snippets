@@ -3,6 +3,6 @@
 Event::until(${1:event}, ${2:payload})
 ]]></content>
     <tabTrigger>Event::until</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php</scope>
     <description>Fire an event until the first non-null response is returned.</description>
 </snippet>

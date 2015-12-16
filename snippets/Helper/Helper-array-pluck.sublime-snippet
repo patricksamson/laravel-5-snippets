@@ -2,7 +2,7 @@
     <content><![CDATA[
 array_pluck(${1:\$array}, ${2:'name'});
 ]]></content>
-    <tabTrigger>Helper::arrayPluck</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <tabTrigger>Helper::array_pluck</tabTrigger>
+    <scope>source.php</scope>
     <!-- <description>@todo add description</description> -->
 </snippet>

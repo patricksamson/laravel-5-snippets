@@ -3,6 +3,6 @@
 \$table->dropForeign('${1:posts_user_id_foreign}');
 ]]></content>
     <tabTrigger>Field::dropForeign</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php</scope>
     <description>Drop a Foreign Key</description>
 </snippet>

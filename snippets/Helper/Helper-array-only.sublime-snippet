@@ -2,7 +2,7 @@
     <content><![CDATA[
 array_only(${1:\$array}, ${2:['name', 'votes']});
 ]]></content>
-    <tabTrigger>Helper::arrayOnly</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <tabTrigger>Helper::array_only</tabTrigger>
+    <scope>source.php</scope>
     <!-- <description>@todo add description</description> -->
 </snippet>

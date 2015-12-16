@@ -1,8 +1,0 @@
-<snippet>
-    <content><![CDATA[
-route(${1:'routeName'}, ${2:\$params});
-]]></content>
-    <tabTrigger>Helper::route</tabTrigger>
-    <scope>source.php, source.html</scope>
-    <description>Generate a URL for a given named route.</description>
-</snippet>

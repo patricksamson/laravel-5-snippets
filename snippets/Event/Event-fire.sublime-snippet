@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
-Event::fire(${1:event}, ${2:payload}, ${3:halt});
+Event::fire(${1:new MyCustomEvent()});
 ]]></content>
     <tabTrigger>Event::fire</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php</scope>
     <description>Fire an event and call the listeners.</description>
 </snippet>

@@ -2,7 +2,7 @@
     <content><![CDATA[
 array_except(${1:\$array}, ${2:['keys', 'to', 'remove']});
 ]]></content>
-    <tabTrigger>Helper::arrayExcept</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <tabTrigger>Helper::array_except</tabTrigger>
+    <scope>source.php</scope>
     <!-- <description>@todo add description</description> -->
 </snippet>

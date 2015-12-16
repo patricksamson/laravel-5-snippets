@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
-Log::info(${1:message});
+Log::info('${1:message}');
 ]]></content>
     <tabTrigger>Log::info</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php</scope>
     <description>Log an informational message to the logs.</description>
 </snippet>

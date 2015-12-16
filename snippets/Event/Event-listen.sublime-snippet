@@ -3,6 +3,6 @@
 Event::listen(${1:events}, ${2:listener}, ${3:priority});
 ]]></content>
     <tabTrigger>Event::listen</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php</scope>
     <description>Register an event listener with the dispatcher.</description>
 </snippet>

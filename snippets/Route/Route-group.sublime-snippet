@@ -1,10 +1,10 @@
 <snippet>
     <content><![CDATA[
-\$router->group(${1:['before' => 'auth', 'namespace' => 'Dashboard']}, function(${2:\$router}) {
-
+Route::group(${1:['${1:prefix}' => '${2:admin}']}, function() {
+    ${3://}
 });
 ]]></content>
     <tabTrigger>Route::group</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php</scope>
     <description>Create a Group of Routes</description>
 </snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+->withInput(${1:['key' => 'value'])})
+]]></content>
+    <tabTrigger>Redirect::withNamedInput</tabTrigger>
+    <scope>source.php</scope>
+    <description>Redirect to URL, Route or Controller with Input</description>
+</snippet>

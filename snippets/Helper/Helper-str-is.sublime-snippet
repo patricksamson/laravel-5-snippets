@@ -1,8 +1,0 @@
-<snippet>
-    <content><![CDATA[
-str_is(${1:'foo*'}, ${2:'foobar'});
-]]></content>
-    <tabTrigger>Helper::strIs</tabTrigger>
-    <scope>source.php, source.html</scope>
-    <description>Add a single instance of the given needle to the haystack. Remove any extra instances.</description>
-</snippet>

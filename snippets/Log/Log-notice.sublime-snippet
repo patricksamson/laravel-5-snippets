@@ -3,6 +3,6 @@
 Log::notice(${1:message});
 ]]></content>
     <tabTrigger>Log::notice</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php</scope>
     <description>Log a notice to the logs.</description>
 </snippet>

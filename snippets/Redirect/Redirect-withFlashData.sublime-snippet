@@ -1,9 +1,8 @@
 <snippet>
     <content><![CDATA[
-redirect('${1:form}')
-        ->with('${1:key}', '${2:value}');
+->with('${1:flashKey}', '${2:flashValue}')
 ]]></content>
     <tabTrigger>Redirect::withFlashData</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php</scope>
     <description>Redirect to URL, Route or Controller with Flash Data</description>
 </snippet>

@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
-Event::forget(${1:event});
+Event::forget('${1:event}');
 ]]></content>
     <tabTrigger>Event::forget</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php</scope>
     <description>Remove a set of listeners from the dispatcher.</description>
 </snippet>

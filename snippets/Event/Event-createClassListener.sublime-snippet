@@ -3,6 +3,6 @@
 Event::createClassListener(${1:listener})
 ]]></content>
     <tabTrigger>Event::createClassListener</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php</scope>
     <description>Create a class based listener using the IoC container.</description>
 </snippet>

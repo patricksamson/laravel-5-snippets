@@ -2,7 +2,7 @@
     <content><![CDATA[
 array_dot(${1:\$array});
 ]]></content>
-    <tabTrigger>Helper::arrayDot</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <tabTrigger>Helper::array_dot</tabTrigger>
+    <scope>source.php</scope>
     <!-- <description>@todo add description</description> -->
 </snippet>

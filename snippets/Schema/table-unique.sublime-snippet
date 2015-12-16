@@ -3,6 +3,6 @@
 \$table->unique('${1:email}');
 ]]></content>
     <tabTrigger>Field::unique</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php</scope>
     <description>Add a unique index</description>
 </snippet>

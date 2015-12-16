@@ -1,10 +1,10 @@
 <snippet>
     <content><![CDATA[
 Schema::table('${1:users}', function(${2:\$table}) {
-
+    ${3://}
 });
 ]]></content>
     <tabTrigger>Schema::table</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php</scope>
     <description>Update an existing table</description>
 </snippet>

@@ -3,6 +3,6 @@
 Cache::decrement('${1:key}', ${2:\$amount});
 ]]></content>
     <tabTrigger>Cache::decrement</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php</scope>
     <description>Decrement a Cached value</description>
 </snippet>

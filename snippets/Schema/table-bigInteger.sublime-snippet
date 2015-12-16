@@ -3,6 +3,6 @@
 \$table->bigInteger('${1:votes}');
 ]]></content>
     <tabTrigger>Field::bigInteger</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php</scope>
     <description>BIGINT equivalent to the table</description>
 </snippet>

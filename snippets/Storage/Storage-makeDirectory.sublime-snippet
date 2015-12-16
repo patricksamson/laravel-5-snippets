@@ -3,6 +3,6 @@
 Storage::makeDirectory(${1:directory});
 ]]></content>
 	<tabTrigger>Storage::makeDirectory</tabTrigger>
-	<scope>source.php, source.html</scope>
+	<scope>source.php</scope>
 	<description>Will create the given directory, including any needed sub-directories</description>
 </snippet>

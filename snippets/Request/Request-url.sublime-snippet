@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$request->url()
+]]></content>
+    <tabTrigger>Request::url</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get the URL (no query string) for the request.</description>
+</snippet>

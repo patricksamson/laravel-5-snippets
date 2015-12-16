@@ -1,8 +1,0 @@
-<snippet>
-    <content><![CDATA[
-dd(${1:\$value});
-]]></content>
-    <tabTrigger>Helper::dump</tabTrigger>
-    <scope>source.php, source.html</scope>
-    <description>Dump the given variable and end execution of the script.</description>
-</snippet>

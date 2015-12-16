@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
-redirect('${1:form}');
+return redirect('${1:some/url}')
 ]]></content>
     <tabTrigger>Redirect::to</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php</scope>
     <description>Redirect to URL, Route or Controller</description>
 </snippet>

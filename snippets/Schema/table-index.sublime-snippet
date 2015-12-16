@@ -3,6 +3,6 @@
 \$table->index('${1:state}');
 ]]></content>
     <tabTrigger>Field::index</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php</scope>
     <description>Adding a basic index</description>
 </snippet>

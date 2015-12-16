@@ -3,6 +3,6 @@
 \$table->double('${1:amount}', ${2:5}, ${3:2});
 ]]></content>
     <tabTrigger>Field::decimal</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php</scope>
     <description>DECIMAL equivalent with a precision and scale</description>
 </snippet>

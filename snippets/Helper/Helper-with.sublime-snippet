@@ -1,8 +1,0 @@
-<snippet>
-    <content><![CDATA[
-with(${1:new Foo})->doWork();
-]]></content>
-    <tabTrigger>Helper::with</tabTrigger>
-    <scope>source.php, source.html</scope>
-    <description>Return the given object. Useful for method chaining constructors in PHP 5.3.x.</description>
-</snippet>

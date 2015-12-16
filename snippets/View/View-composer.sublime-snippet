@@ -1,10 +1,10 @@
 <snippet>
     <content><![CDATA[
 view()->composer('${1:name}', function(${2:\$view}) {
-
+    ${3://}
 });
 ]]></content>
     <tabTrigger>View::composer</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php</scope>
     <description>Define a View Composer</description>
 </snippet>

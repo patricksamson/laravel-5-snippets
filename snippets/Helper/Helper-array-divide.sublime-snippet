@@ -2,7 +2,7 @@
     <content><![CDATA[
 list(${1:\$keys}, ${2:\$values}) = array_divide(${3:\$array});
 ]]></content>
-    <tabTrigger>Helper::arrayDivide</tabTrigger>
-    <scope>source.php, source.html</scope>
-    <!-- <description>@todo add description</description> -->
+    <tabTrigger>Helper::array_divide</tabTrigger>
+    <scope>source.php</scope>
+    <description>Returns two arrays, one containing the keys, and the other containing the values of the original array.</description>
 </snippet>

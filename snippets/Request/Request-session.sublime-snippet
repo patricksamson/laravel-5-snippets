@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$request->session()
+]]></content>
+    <tabTrigger>Request::session</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get the session associated with the request.</description>
+</snippet>

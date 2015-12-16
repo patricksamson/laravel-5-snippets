@@ -3,6 +3,6 @@
 Cache::increment('${1:key}', ${2:\$amount});
 ]]></content>
     <tabTrigger>Cache::increment</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php</scope>
     <description>Increment a Cached value</description>
 </snippet>

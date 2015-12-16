@@ -1,11 +1,11 @@
 <snippet>
     <content><![CDATA[
-if (Schema::hasColumn('${1:users}'))
+if (Schema::hasColumn('${1:column}'))
 {
-
+    ${2://}
 }
 ]]></content>
     <tabTrigger>Schema::hasColumn</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php</scope>
     <description>Check for existence of column(s)</description>
 </snippet>

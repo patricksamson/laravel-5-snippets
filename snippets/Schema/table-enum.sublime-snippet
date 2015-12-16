@@ -3,6 +3,6 @@
 \$table->enum('${1:choices}', ${2:['foo', 'bar']});
 ]]></content>
     <tabTrigger>Field::enum</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php</scope>
     <description>ENUM equivalent to the table</description>
 </snippet>

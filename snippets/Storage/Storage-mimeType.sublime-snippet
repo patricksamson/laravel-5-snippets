@@ -3,6 +3,6 @@
 Storage::mimeType(${1:path});
 ]]></content>
 	<tabTrigger>Storage::mimeType</tabTrigger>
-	<scope>source.php, source.html</scope>
+	<scope>source.php</scope>
 	<description>Get the mime-type of a given file.</description>
 </snippet>

@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
-Log::useDailyFiles(${1:path}, ${2:days}, ${3:level});
+Log::useDailyFiles('${1:path}', ${2:days}, '${3:level}');
 ]]></content>
     <tabTrigger>Log::useDailyFiles</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php</scope>
     <description>Register a daily file log handler.</description>
 </snippet>

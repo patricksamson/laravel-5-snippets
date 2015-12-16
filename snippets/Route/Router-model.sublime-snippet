@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$router->model('${1:user}', '${2:App\User}');
+]]></content>
+    <tabTrigger>Router::model</tabTrigger>
+    <scope>source.php</scope>
+    <description>Register a model binder for a wildcard.</description>
+</snippet>

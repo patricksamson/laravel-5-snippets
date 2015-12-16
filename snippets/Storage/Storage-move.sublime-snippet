@@ -3,6 +3,6 @@
 Storage::move(${1:path}, ${2:target});
 ]]></content>
 	<tabTrigger>Storage::move</tabTrigger>
-	<scope>source.php, source.html</scope>
+	<scope>source.php</scope>
 	<description>Move an existing file to a new location on the disk</description>
 </snippet>

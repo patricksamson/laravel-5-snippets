@@ -1,8 +1,0 @@
-<snippet>
-    <content><![CDATA[
-studly_case(${1:'foo_bar'});
-]]></content>
-    <tabTrigger>Helper::studlyCase</tabTrigger>
-    <scope>source.php, source.html</scope>
-    <description>Convert the given string to StudlyCase.</description>
-</snippet>

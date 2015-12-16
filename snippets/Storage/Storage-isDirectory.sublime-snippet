@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Storage::isDirectory(${1:directory});
+]]></content>
+	<tabTrigger>Storage::isDirectory</tabTrigger>
+	<scope>source.php</scope>
+	<description>Determine if the given path is a directory.</description>
+</snippet>

@@ -3,6 +3,6 @@
 \$router->when('${1:admin/*}', '${2:\admin}', ${3:['post']});
 ]]></content>
     <tabTrigger>Route::when</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php</scope>
     <description>Pattern based filters on routes</description>
 </snippet>

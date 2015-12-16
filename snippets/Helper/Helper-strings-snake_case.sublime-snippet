@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+snake_case(${1:'fooBar'});
+]]></content>
+    <tabTrigger>Helper::strings-snake_case</tabTrigger>
+    <scope>source.php</scope>
+    <description>Convert the given string to snake_case.</description>
+</snippet>

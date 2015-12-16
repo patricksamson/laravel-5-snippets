@@ -3,6 +3,6 @@
 \$table->integer('${1:votes}');
 ]]></content>
     <tabTrigger>Field::integer</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php</scope>
     <description>INTEGER equivalent to the table</description>
 </snippet>

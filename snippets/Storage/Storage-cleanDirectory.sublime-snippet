@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Storage::cleanDirectory(${1:directory});
+]]></content>
+	<tabTrigger>Storage::cleanDirectory</tabTrigger>
+	<scope>source.php</scope>
+	<description>Empty the specified directory of all files and folders.</description>
+</snippet>

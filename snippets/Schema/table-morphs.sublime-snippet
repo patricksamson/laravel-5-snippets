@@ -3,6 +3,6 @@
 \$table->morphs('${1:taggable}');
 ]]></content>
     <tabTrigger>Field::morphs</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php</scope>
     <description>Adds INTEGER taggable_id and STRING taggable_type</description>
 </snippet>

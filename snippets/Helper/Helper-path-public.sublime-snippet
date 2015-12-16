@@ -2,7 +2,7 @@
     <content><![CDATA[
 public_path();
 ]]></content>
-    <tabTrigger>Helper::publicPath</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <tabTrigger>Helper::path-public</tabTrigger>
+    <scope>source.php</scope>
     <description>Get the fully qualified path to the public directory.</description>
 </snippet>

@@ -1,6 +1,9 @@
 <snippet>
     <content><![CDATA[
-Hash::needsRehash(${1:hashedValue}, ${2:options})
+if (Hash::needsRehash(${1:\$hashedValue}))
+{
+    ${2:\$hashed} = Hash::make(${3:\$value});
+}
 ]]></content>
     <tabTrigger>Hash::needsRehash</tabTrigger>
     <scope>source.php</scope>

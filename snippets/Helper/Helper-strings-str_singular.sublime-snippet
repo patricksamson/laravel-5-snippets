@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+str_singular(${1:'string'});
+]]></content>
+    <tabTrigger>Helper::strings-str_singular</tabTrigger>
+    <scope>source.php</scope>
+    <description>Convert a string to its singular form (English only).</description>
+</snippet>

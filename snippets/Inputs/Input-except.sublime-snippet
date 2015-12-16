@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
-\$request->except('${1:credit_card}');
+\$request->except(${1:['key', 'otherKey']});
 ]]></content>
     <tabTrigger>Input::except</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php</scope>
     <description>Retrieve only some of the Request Input</description>
 </snippet>

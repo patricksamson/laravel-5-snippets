@@ -3,6 +3,6 @@
 Cache::get('${1:key}', '${2:default}');
 ]]></content>
     <tabTrigger>Cache::get</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php</scope>
     <description>Retrieve an Item from the Cache</description>
 </snippet>

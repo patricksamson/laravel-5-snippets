@@ -5,6 +5,6 @@ Schema::connection('${1:foo}')->create('${2:users}', function(${3:\$table}) {
 });
 ]]></content>
     <tabTrigger>Schema::connection</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php</scope>
     <description>Specify connection for schema operation</description>
 </snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+str_plural(${1:'string'});
+]]></content>
+    <tabTrigger>Helper::strings-str_plural</tabTrigger>
+    <scope>source.php</scope>
+    <description>Convert a string to its plural form (English only).</description>
+</snippet>

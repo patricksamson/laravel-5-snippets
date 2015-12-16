@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:\$sortedArray} = array_sort_recursive(${2:\$array});
+]]></content>
+    <tabTrigger>Helper::array_sort_recursive</tabTrigger>
+    <scope>source.php</scope>
+    <!-- <description>@todo add description</description> -->
+</snippet>

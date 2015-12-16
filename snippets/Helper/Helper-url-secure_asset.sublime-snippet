@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+secure_asset(${1:'foo/bar'}, ${2:\$title}, ${3:\$attributes});
+]]></content>
+    <tabTrigger>Helper::url-secure_asset</tabTrigger>
+    <scope>source.php</scope>
+    <description>Generate a HTML link to the given asset using HTTPS.</description>
+</snippet>

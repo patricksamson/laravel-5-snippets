@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-Storage::get(${1:path});
+Storage::get(${1:filePath});
 ]]></content>
 	<tabTrigger>Storage::get</tabTrigger>
-	<scope>source.php, source.html</scope>
+	<scope>source.php</scope>
 	<description>Retrieve the contents of a given file</description>
 </snippet>

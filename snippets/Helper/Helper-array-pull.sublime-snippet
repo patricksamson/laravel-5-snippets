@@ -2,7 +2,7 @@
     <content><![CDATA[
 array_pull(${1:\$array}, ${2:'name'});
 ]]></content>
-    <tabTrigger>Helper::arrayPull</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <tabTrigger>Helper::array_pull</tabTrigger>
+    <scope>source.php</scope>
     <!-- <description>@todo add description</description> -->
 </snippet>

@@ -1,8 +1,0 @@
-<snippet>
-    <content><![CDATA[
-camel_case(${1:'foo_bar'});
-]]></content>
-    <tabTrigger>Helper::camcelCase</tabTrigger>
-    <scope>source.php, source.html</scope>
-    <description>Convert the given string to camelCase.</description>
-</snippet>

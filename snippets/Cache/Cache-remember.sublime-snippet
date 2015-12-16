@@ -1,10 +1,10 @@
 <snippet>
     <content><![CDATA[
-Cache::remember('${1:users}', ${2:\$minutes}, function() {
-
+Cache::remember('${1:key}', ${2:\$minutes}, function() {
+    ${3://}
 });
 ]]></content>
     <tabTrigger>Cache::remember</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php</scope>
     <description>Retrieve item or Store a default value if it doesn't exist</description>
 </snippet>

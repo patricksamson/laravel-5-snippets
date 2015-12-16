@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$request->header(${1:'key'}, '${2:default'})
+]]></content>
+    <tabTrigger>Request::header</tabTrigger>
+    <scope>source.php</scope>
+    <description>Retrieve a header from the request.</description>
+</snippet>

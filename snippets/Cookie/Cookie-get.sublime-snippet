@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
-\$request->cookie('${1:name}')
+\$request->cookie('${1:key}')
 ]]></content>
     <tabTrigger>Cookie::get</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php</scope>
     <description>Retrieve a Cookie value</description>
 </snippet>

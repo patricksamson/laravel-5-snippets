@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+str_limit(${1:\$value}, ${2:100})
+]]></content>
+    <tabTrigger>Helper::strings-str_limit</tabTrigger>
+    <scope>source.php</scope>
+    <description>Limit the number of characters in a string.</description>
+</snippet>

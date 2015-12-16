@@ -1,8 +1,0 @@
-<snippet>
-    <content><![CDATA[
-class_basename(${1:'Foo\Bar\Baz'});
-]]></content>
-    <tabTrigger>Helper::classBasename</tabTrigger>
-    <scope>source.php, source.html</scope>
-    <description>Get the class name of the given class, without any namespace names.</description>
-</snippet>

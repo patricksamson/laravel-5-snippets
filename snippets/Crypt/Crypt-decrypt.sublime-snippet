@@ -1,8 +1,12 @@
 <snippet>
 	<content><![CDATA[
-Crypt::decrypt(${1:encryptedValue});
+try {
+    ${1:\$decrypted} = Crypt::decrypt(${2:\$encryptedValue});
+} catch (Illuminate\Contracts\Encryption\DecryptException $e) {
+    ${3://}
+}
 ]]></content>
 	<tabTrigger>Crypt::decrypt</tabTrigger>
-	<scope>source.php, source.html</scope>
+	<scope>source.php</scope>
 	<description>Decrypt a value</description>
 </snippet>

@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
-Event::getListeners(${1:eventName});
+Event::getListeners('${1:eventName}');
 ]]></content>
     <tabTrigger>Event::getListeners</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php</scope>
     <description>Get all of the listeners for a given event name.</description>
 </snippet>

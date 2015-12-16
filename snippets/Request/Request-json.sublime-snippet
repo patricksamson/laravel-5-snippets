@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$request->json()
+]]></content>
+    <tabTrigger>Request::json</tabTrigger>
+    <scope>source.php</scope>
+    <description>Determine if the request is sending JSON.</description>
+</snippet>

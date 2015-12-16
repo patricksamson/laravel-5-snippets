@@ -4,4 +4,5 @@ Auth::guest()
 ]]></content>
 	<tabTrigger>Auth::guest</tabTrigger>
 	<scope>source.php</scope>
+    <description>Determine if the current user is a guest.</description>
 </snippet>

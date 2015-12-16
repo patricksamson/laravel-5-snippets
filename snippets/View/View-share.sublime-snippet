@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
-View::share('${1:name}', '${2:Steve}');
+view()->share('${1:key}', ${2:\$value});
 ]]></content>
     <tabTrigger>View::share</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php</scope>
     <description>Share Data across all Views</description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-Hash::make(${1:value}, ${2:options})
+Hash::make(${1:\$value})
 ]]></content>
     <tabTrigger>Hash::make</tabTrigger>
     <scope>source.php</scope>

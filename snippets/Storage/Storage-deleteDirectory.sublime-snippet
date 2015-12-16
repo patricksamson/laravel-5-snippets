@@ -3,6 +3,6 @@
 Storage::deleteDirectory(${1:directory});
 ]]></content>
 	<tabTrigger>Storage::deleteDirectory</tabTrigger>
-	<scope>source.php, source.html</scope>
+	<scope>source.php</scope>
 	<description>May be used to remove a directory, including all of its files, from the disk</description>
 </snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+starts_with(${1:'haystack'}, ${2:'needle'});
+]]></content>
+    <tabTrigger>Helper::strings-starts_with</tabTrigger>
+    <scope>source.php</scope>
+    <description>Determine if the given haystack begins with the given needle.</description>
+</snippet>

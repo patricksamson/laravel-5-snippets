@@ -3,6 +3,6 @@
 Storage::files(${1:directory});
 ]]></content>
 	<tabTrigger>Storage::files</tabTrigger>
-	<scope>source.php, source.html</scope>
+	<scope>source.php</scope>
 	<description>Returns an array of all of the files in a directory</description>
 </snippet>

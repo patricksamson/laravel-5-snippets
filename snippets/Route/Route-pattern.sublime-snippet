@@ -1,8 +1,0 @@
-<snippet>
-    <content><![CDATA[
-\$router->pattern('id', '${1:[0-9]+}');
-]]></content>
-    <tabTrigger>Route::pattern</tabTrigger>
-    <scope>source.php, source.html</scope>
-    <description>Define Global Patterns (Regex)</description>
-</snippet>

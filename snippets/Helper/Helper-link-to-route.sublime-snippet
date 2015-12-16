@@ -1,8 +1,0 @@
-<snippet>
-    <content><![CDATA[
-link_to_route(${1:'route.name'}, ${2:\$title}, ${3:\$parameters}, ${4:\$attributes});
-]]></content>
-    <tabTrigger>Helper::linkToRoute</tabTrigger>
-    <scope>source.php, source.html</scope>
-    <description>Generate a HTML link to the given route.</description>
-</snippet>

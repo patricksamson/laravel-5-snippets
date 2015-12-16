@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Schema::dropIfExists('${1:table}');
+]]></content>
+    <tabTrigger>Schema::dropIfExists</tabTrigger>
+    <scope>source.php</scope>
+    <description>Drop an existing database table if it exists</description>
+</snippet>

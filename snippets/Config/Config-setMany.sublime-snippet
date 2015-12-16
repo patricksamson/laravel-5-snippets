@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+Config::set([
+    '${1:key}' => ${2:\$value},
+]);
+]]></content>
+    <tabTrigger>Config::setMany</tabTrigger>
+    <scope>source.php</scope>
+    <description>Set a given configuration value.</description>
+</snippet>

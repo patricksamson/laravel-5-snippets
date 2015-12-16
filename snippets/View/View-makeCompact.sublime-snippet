@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
-View::make('${1:view.name}', ${2:compact('key')});
+view('${1:view.name}', compact(${2:\$data}));
 ]]></content>
     <tabTrigger>View::makeCompact</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php</scope>
     <description>Create a View, Pass Data with compact()</description>
 </snippet>

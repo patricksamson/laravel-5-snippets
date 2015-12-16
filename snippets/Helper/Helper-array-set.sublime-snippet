@@ -2,7 +2,7 @@
     <content><![CDATA[
 array_set(${1:\$array}, ${2:'names.editor'}, ${3:'Taylor'});
 ]]></content>
-    <tabTrigger>Helper::arraySet</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <tabTrigger>Helper::array_set</tabTrigger>
+    <scope>source.php</scope>
     <!-- <description>@todo add description</description> -->
 </snippet>

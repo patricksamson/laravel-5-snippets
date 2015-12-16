@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
-View::make('${1:view.name}', ${2:\$data});
+view('${1:view.name}', ${2:\$data});
 ]]></content>
     <tabTrigger>View::make</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php</scope>
     <description>Create a View with Data</description>
 </snippet>

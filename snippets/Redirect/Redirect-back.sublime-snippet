@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
-back()${1:->withInput()};
+return redirect()->back()${1:->withErrors(\$validator)}${2:->withInput()};
 ]]></content>
     <tabTrigger>Redirect::back</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php</scope>
     <description>Redirect to URL, Route or Controller</description>
 </snippet>

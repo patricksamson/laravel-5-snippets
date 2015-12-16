@@ -3,6 +3,6 @@
 Event::firing()
 ]]></content>
     <tabTrigger>Event::firing</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <scope>source.php</scope>
     <description>Get the event that is currently firing.</description>
 </snippet>

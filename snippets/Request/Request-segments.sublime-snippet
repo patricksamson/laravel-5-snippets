@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$request->segments()
+]]></content>
+    <tabTrigger>Request::segments</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get all of the segments for the request path.</description>
+</snippet>

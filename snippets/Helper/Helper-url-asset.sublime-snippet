@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+asset(${1:'img/photo.jpg'});
+]]></content>
+    <tabTrigger>Helper::url-asset</tabTrigger>
+    <scope>source.php</scope>
+    <description>Generate a URL for an asset.</description>
+</snippet>

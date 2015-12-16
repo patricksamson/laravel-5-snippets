@@ -2,7 +2,7 @@
     <content><![CDATA[
 array_add(${1:\$array}, ${2:'key'}, ${3:'value'});
 ]]></content>
-    <tabTrigger>Helper::arrayAdd</tabTrigger>
-    <scope>source.php, source.html</scope>
+    <tabTrigger>Helper::array_add</tabTrigger>
+    <scope>source.php</scope>
     <!-- <description>@todo add description</description> -->
 </snippet>

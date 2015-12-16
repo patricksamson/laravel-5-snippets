@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$request->root()
+]]></content>
+    <tabTrigger>Request::root</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get the root URL for the application.</description>
+</snippet>
