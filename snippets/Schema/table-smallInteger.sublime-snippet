@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-\$table->smallInteger('${1:votes}');
+\$table->smallInteger('${1:votes}')${2:->nullable()}${3:->default(${4:12})};
 ]]></content>
     <tabTrigger>Field::smallInteger</tabTrigger>
     <scope>source.php</scope>

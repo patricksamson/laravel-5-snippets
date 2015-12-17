@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-\$table->index('${1:state}');
+\$table->index('${1:column}');
 ]]></content>
     <tabTrigger>Field::index</tabTrigger>
     <scope>source.php</scope>

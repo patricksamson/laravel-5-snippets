@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-\$table->timestamp('${1:added_on}');
+\$table->timestamp('${1:added_on}')${2:->nullable()}${3:->default(${4:time()})};
 ]]></content>
     <tabTrigger>Field::timestamp</tabTrigger>
     <scope>source.php</scope>

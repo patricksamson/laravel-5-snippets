@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-\$table->float('${1:amount}');
+\$table->float('${1:amount}')${2:->nullable()}${3:->default(${4:123.45})};
 ]]></content>
     <tabTrigger>Field::float</tabTrigger>
     <scope>source.php</scope>

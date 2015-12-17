@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$table->uuid('${1:id}')${2:->nullable()}${3:->default(${4:null})};
+]]></content>
+    <tabTrigger>Field::uuid</tabTrigger>
+    <scope>source.php</scope>
+    <description>UUID equivalent to the table</description>
+</snippet>

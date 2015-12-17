@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-\$table->mediumText('${1:mediumText}');
+\$table->mediumText('${1:mediumText}')${2:->nullable()}${3:->default(${4:'text'})};
 ]]></content>
     <tabTrigger>Field::mediumText</tabTrigger>
     <scope>source.php</scope>

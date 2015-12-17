@@ -1,8 +1,7 @@
 <snippet>
     <content><![CDATA[
-if (Schema::hasColumn('${1:column}'))
-{
-    ${2://}
+if (Schema::hasColumn('${1:table}', '${2:column}')) {
+    ${3://}
 }
 ]]></content>
     <tabTrigger>Schema::hasColumn</tabTrigger>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-\$table->text('${1:description}');
+\$table->text('${1:description}')${2:->nullable()}${3:->default(${4:'text'})};
 ]]></content>
     <tabTrigger>Field::text</tabTrigger>
     <scope>source.php</scope>

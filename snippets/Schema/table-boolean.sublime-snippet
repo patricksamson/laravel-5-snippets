@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-\$table->boolean('${1:confirmed}');
+\$table->boolean('${1:confirmed}')${2:->nullable()}${3:->default(${4:false})};
 ]]></content>
     <tabTrigger>Field::boolean</tabTrigger>
     <scope>source.php</scope>

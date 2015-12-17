@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-\$table->date('${1:created_at}');
+\$table->date('${1:created_at}')${2:->nullable()}${3:->default(${4:new DateTime()})};
 ]]></content>
     <tabTrigger>Field::date</tabTrigger>
     <scope>source.php</scope>

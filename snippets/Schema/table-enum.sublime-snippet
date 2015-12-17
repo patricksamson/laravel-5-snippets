@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-\$table->enum('${1:choices}', ${2:['foo', 'bar']});
+\$table->enum('${1:choices}', ${2:['foo', 'bar']})${3:->nullable()}${4:->default(${5:['foo', 'bar']})};;
 ]]></content>
     <tabTrigger>Field::enum</tabTrigger>
     <scope>source.php</scope>

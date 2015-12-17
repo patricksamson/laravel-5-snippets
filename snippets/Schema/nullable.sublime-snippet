@@ -1,8 +1,0 @@
-<snippet>
-    <content><![CDATA[
-->nullable();
-]]></content>
-    <tabTrigger>Field::nullable</tabTrigger>
-    <scope>source.php</scope>
-    <description>Designate that the column allows NULL values</description>
-</snippet>

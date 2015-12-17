@@ -2,7 +2,7 @@
     <content><![CDATA[
 Schema::rename('${1:\$from}', '${2:\$to}');
 ]]></content>
-    <tabTrigger>Schema::rename</tabTrigger>
+    <tabTrigger>Schema::rename-table</tabTrigger>
     <scope>source.php</scope>
     <description>Rename an existing database table</description>
 </snippet>

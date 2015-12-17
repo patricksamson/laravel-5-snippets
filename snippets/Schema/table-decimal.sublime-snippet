@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-\$table->double('${1:amount}', ${2:5}, ${3:2});
+\$table->double('${1:amount}', ${2:5}, ${3:2})${4:->nullable()}${5:->default(${6:123.45})};
 ]]></content>
     <tabTrigger>Field::decimal</tabTrigger>
     <scope>source.php</scope>

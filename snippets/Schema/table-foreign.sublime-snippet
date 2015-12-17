@@ -1,8 +1,0 @@
-<snippet>
-    <content><![CDATA[
-\$table->foreign('${1:user_id}')->references('${2:id}')->on('${3:users}');
-]]></content>
-    <tabTrigger>Field::foreign</tabTrigger>
-    <scope>source.php</scope>
-    <description>Add a Foreign Key to a table</description>
-</snippet>
