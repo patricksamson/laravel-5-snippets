@@ -2,7 +2,7 @@
     <content><![CDATA[
 \$table->bigIncrements('${1:id}');
 ]]></content>
-    <tabTrigger>Field::bigIncrements</tabTrigger>
+    <tabTrigger>Column::bigIncrements</tabTrigger>
     <scope>source.php</scope>
     <description>Incrementing ID using a "big integer" equivalent.</description>
 </snippet>

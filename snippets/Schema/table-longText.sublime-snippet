@@ -2,7 +2,7 @@
     <content><![CDATA[
 \$table->longText('${1:description}')${2:->nullable()}${3:->default(${4:'text'})};
 ]]></content>
-    <tabTrigger>Field::longText</tabTrigger>
+    <tabTrigger>Column::longText</tabTrigger>
     <scope>source.php</scope>
     <description>LONGTEXT equivalent to the table</description>
 </snippet>

@@ -2,7 +2,7 @@
     <content><![CDATA[
 \$table->bigInteger('${1:votes}')${2:->nullable()}${3:->default(${4:12})};
 ]]></content>
-    <tabTrigger>Field::bigInteger</tabTrigger>
+    <tabTrigger>Column::bigInteger</tabTrigger>
     <scope>source.php</scope>
     <description>BIGINT equivalent to the table</description>
 </snippet>

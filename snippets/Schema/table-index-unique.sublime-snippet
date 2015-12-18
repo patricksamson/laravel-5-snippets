@@ -2,7 +2,7 @@
     <content><![CDATA[
 \$table->unique('${1:column}');
 ]]></content>
-    <tabTrigger>Field::index-unique</tabTrigger>
+    <tabTrigger>Column::index-unique</tabTrigger>
     <scope>source.php</scope>
     <description>Add a unique index</description>
 </snippet>

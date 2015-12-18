@@ -2,7 +2,7 @@
     <content><![CDATA[
 \$table->index('${1:column}');
 ]]></content>
-    <tabTrigger>Field::index</tabTrigger>
+    <tabTrigger>Column::index</tabTrigger>
     <scope>source.php</scope>
     <description>Adding a basic index</description>
 </snippet>

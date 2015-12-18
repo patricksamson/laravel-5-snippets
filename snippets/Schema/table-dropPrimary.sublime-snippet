@@ -2,7 +2,7 @@
     <content><![CDATA[
 \$table->dropPrimary('${1:users_id_primary}');
 ]]></content>
-    <tabTrigger>Field::dropPrimary</tabTrigger>
+    <tabTrigger>Column::dropPrimary</tabTrigger>
     <scope>source.php</scope>
     <description>Drop a Primary key</description>
 </snippet>

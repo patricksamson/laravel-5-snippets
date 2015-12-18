@@ -2,7 +2,7 @@
     <content><![CDATA[
 \$table->char('${1:name}', ${2:4})${2:->nullable()}${3:->default(${4:'text'})};
 ]]></content>
-    <tabTrigger>Field::char</tabTrigger>
+    <tabTrigger>Column::char</tabTrigger>
     <scope>source.php</scope>
     <description>CHAR equivalent with a length (optional)</description>
 </snippet>

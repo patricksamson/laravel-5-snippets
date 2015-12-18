@@ -2,7 +2,7 @@
     <content><![CDATA[
 \$table->smallInteger('${1:votes}')${2:->nullable()}${3:->default(${4:12})};
 ]]></content>
-    <tabTrigger>Field::smallInteger</tabTrigger>
+    <tabTrigger>Column::smallInteger</tabTrigger>
     <scope>source.php</scope>
     <description>SMALLINT equivalent to the table</description>
 </snippet>

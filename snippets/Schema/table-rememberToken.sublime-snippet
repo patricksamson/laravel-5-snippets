@@ -2,7 +2,7 @@
     <content><![CDATA[
 \$table->rememberToken();
 ]]></content>
-    <tabTrigger>Field::rememberToken</tabTrigger>
+    <tabTrigger>Column::rememberToken</tabTrigger>
     <scope>source.php</scope>
     <description>Adds remember_token as VARCHAR(100) NULL</description>
 </snippet>

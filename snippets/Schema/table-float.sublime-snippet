@@ -2,7 +2,7 @@
     <content><![CDATA[
 \$table->float('${1:amount}')${2:->nullable()}${3:->default(${4:123.45})};
 ]]></content>
-    <tabTrigger>Field::float</tabTrigger>
+    <tabTrigger>Column::float</tabTrigger>
     <scope>source.php</scope>
     <description>FLOAT equivalent to the table</description>
 </snippet>

@@ -2,7 +2,7 @@
     <content><![CDATA[
 \$table->mediumText('${1:mediumText}')${2:->nullable()}${3:->default(${4:'text'})};
 ]]></content>
-    <tabTrigger>Field::mediumText</tabTrigger>
+    <tabTrigger>Column::mediumText</tabTrigger>
     <scope>source.php</scope>
     <description>MEDIUMTEXT equivalent to the table</description>
 </snippet>

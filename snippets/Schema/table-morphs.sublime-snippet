@@ -2,7 +2,7 @@
     <content><![CDATA[
 \$table->morphs('${1:taggable}');
 ]]></content>
-    <tabTrigger>Field::morphs</tabTrigger>
+    <tabTrigger>Column::morphs</tabTrigger>
     <scope>source.php</scope>
     <description>Adds INTEGER taggable_id and STRING taggable_type</description>
 </snippet>

@@ -2,7 +2,7 @@
     <content><![CDATA[
 \$table->increments('${1:id}');
 ]]></content>
-    <tabTrigger>Field::increments</tabTrigger>
+    <tabTrigger>Column::increments</tabTrigger>
     <scope>source.php</scope>
     <description>Incrementing ID</description>
 </snippet>

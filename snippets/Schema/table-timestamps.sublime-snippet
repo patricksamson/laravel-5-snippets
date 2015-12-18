@@ -2,7 +2,7 @@
     <content><![CDATA[
 \$table->timestamps();
 ]]></content>
-    <tabTrigger>Field::timestamps</tabTrigger>
+    <tabTrigger>Column::timestamps</tabTrigger>
     <scope>source.php</scope>
     <description>Adds created_at and updated_at columns</description>
 </snippet>

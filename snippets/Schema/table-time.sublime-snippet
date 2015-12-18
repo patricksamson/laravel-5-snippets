@@ -2,7 +2,7 @@
     <content><![CDATA[
 \$table->time('${1:sunrise}')${2:->nullable()}${3:->default(${4:new DateTime()})};
 ]]></content>
-    <tabTrigger>Field::time</tabTrigger>
+    <tabTrigger>Column::time</tabTrigger>
     <scope>source.php</scope>
     <description>TIME equivalent to the table</description>
 </snippet>

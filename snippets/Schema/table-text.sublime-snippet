@@ -2,7 +2,7 @@
     <content><![CDATA[
 \$table->text('${1:description}')${2:->nullable()}${3:->default(${4:'text'})};
 ]]></content>
-    <tabTrigger>Field::text</tabTrigger>
+    <tabTrigger>Column::text</tabTrigger>
     <scope>source.php</scope>
     <description>TEXT equivalent to the table</description>
 </snippet>

@@ -2,7 +2,7 @@
     <content><![CDATA[
 \$table->string('${1:name}', ${2:100})${2:->nullable()}${3:->default(${4:'text'})};
 ]]></content>
-    <tabTrigger>Field::string</tabTrigger>
+    <tabTrigger>Column::string</tabTrigger>
     <scope>source.php</scope>
     <description>VARCHAR equivalent with a length (optional)</description>
 </snippet>

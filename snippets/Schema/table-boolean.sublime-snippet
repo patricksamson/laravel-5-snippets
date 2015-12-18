@@ -2,7 +2,7 @@
     <content><![CDATA[
 \$table->boolean('${1:confirmed}')${2:->nullable()}${3:->default(${4:false})};
 ]]></content>
-    <tabTrigger>Field::boolean</tabTrigger>
+    <tabTrigger>Column::boolean</tabTrigger>
     <scope>source.php</scope>
     <description>BOOLEAN equivalent to the table</description>
 </snippet>
