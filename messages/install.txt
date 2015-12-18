@@ -1,0 +1,16 @@
+Laravel 5 Snippets for Sublime Text
+https://github.com/Lykegenes/laravel-five-snippets
+
+********************************************************************************
+
+
+Thank you for installing this package!
+
+Please have a look at the project's Readme for up-to-date instructions.
+These snippets are consistent with the latest stable release of Laravel and its
+documentation, but some particularities are explained in the Readme file.
+
+The home page of the project can be found here :
+https://github.com/Lykegenes/laravel-five-snippets
+
+Improvements or suggestions? Contribute on GitHub!

@@ -1,0 +1,23 @@
+Laravel 5 Snippets for Sublime Text
+https://github.com/Lykegenes/laravel-five-snippets
+
+
+Version 1.2.0
+********************************************************************************
+
+#### IMPROVEMENTS
+
+All of the snippets were cleaned up since the last release. They now all
+follow PSR-2 and were updated to fully support Laravel 5.1.
+
+The most notable changes are :
+- Much better snippets to create database columns in migrations.
+- Cleaned up all Helper snippets (these were a mess).
+- Added missing Helper snippets.
+- Added missing Request snippets.
+- Added missing Storage snippets.
+- Added Console snippets (there weren't any before).
+
+Happy coding!
+
+Improvements or suggestions? Contribute on GitHub!
