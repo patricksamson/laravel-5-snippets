@@ -4,5 +4,5 @@ class_basename(${1:'Foo\Bar\Baz'});
 ]]></content>
     <tabTrigger>Helper::strings-class_basename</tabTrigger>
     <scope>source.php</scope>
-    <description>Get the class name of the given class, without any namespace names.</description>
+    <description>Get the class "basename" of the given object / class.</description>
 </snippet>

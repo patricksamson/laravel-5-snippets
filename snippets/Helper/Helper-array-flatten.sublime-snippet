@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+array_flatten(${1:\$array});
+]]></content>
+    <tabTrigger>Helper::array_flatten</tabTrigger>
+    <scope>source.php</scope>
+    <description>Will flatten a multi-dimensional array into a single level.</description>
+</snippet>

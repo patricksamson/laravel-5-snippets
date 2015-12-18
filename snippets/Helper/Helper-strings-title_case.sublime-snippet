@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+title_case(${1:'fooBar'});
+]]></content>
+    <tabTrigger>Helper::strings-title_case</tabTrigger>
+    <scope>source.php</scope>
+    <description>Convert a value to title case.</description>
+</snippet>

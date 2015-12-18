@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+last(${1:\$array);
+]]></content>
+    <tabTrigger>Helper::array-last</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get the last element of an array. Useful for method chaining.</description>
+</snippet>

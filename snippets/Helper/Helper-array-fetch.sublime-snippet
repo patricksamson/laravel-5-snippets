@@ -1,8 +1,0 @@
-<snippet>
-    <content><![CDATA[
-array_fetch(${1:\$array}, ${2:'developer.name'});
-]]></content>
-    <tabTrigger>Helper::array_fetch</tabTrigger>
-    <scope>source.php</scope>
-    <!-- <description>@todo add description</description> -->
-</snippet>

@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
-array_set(${1:\$array}, ${2:'names.editor'}, ${3:'Taylor'});
+array_set(${1:\$array}, ${2:'products.desk.price'}, ${3:200});
 ]]></content>
     <tabTrigger>Helper::array_set</tabTrigger>
     <scope>source.php</scope>
-    <!-- <description>@todo add description</description> -->
+    <description>Set an array item to a given value using "dot" notation.</description>
 </snippet>

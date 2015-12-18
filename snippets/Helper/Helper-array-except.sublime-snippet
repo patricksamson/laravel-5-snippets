@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
-array_except(${1:\$array}, ${2:['keys', 'to', 'remove']});
+array_except(${1:\$array}, ${2:['key', 'otherKey']});
 ]]></content>
     <tabTrigger>Helper::array_except</tabTrigger>
     <scope>source.php</scope>
-    <!-- <description>@todo add description</description> -->
+    <description>Get all of the given array except for a specified array of items.</description>
 </snippet>

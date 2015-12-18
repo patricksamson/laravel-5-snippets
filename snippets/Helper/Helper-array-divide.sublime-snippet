@@ -4,5 +4,5 @@ list(${1:\$keys}, ${2:\$values}) = array_divide(${3:\$array});
 ]]></content>
     <tabTrigger>Helper::array_divide</tabTrigger>
     <scope>source.php</scope>
-    <description>Returns two arrays, one containing the keys, and the other containing the values of the original array.</description>
+    <description>Divide an array into two arrays. One with keys and the other with values.</description>
 </snippet>

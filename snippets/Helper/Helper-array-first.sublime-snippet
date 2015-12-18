@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+array_first(${1:\$array}, function (${2:\$key}, ${3:\$value}) {
+    return ${4:\$value >= 150;}
+});
+]]></content>
+    <tabTrigger>Helper::array_first</tabTrigger>
+    <scope>source.php</scope>
+    <description>Return the first element in an array passing a given truth test.</description>
+</snippet>

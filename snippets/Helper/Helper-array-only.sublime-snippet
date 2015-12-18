@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
-array_only(${1:\$array}, ${2:['name', 'votes']});
+array_only(${1:\$array}, ${2:['key', 'otherKey']});
 ]]></content>
     <tabTrigger>Helper::array_only</tabTrigger>
     <scope>source.php</scope>
-    <!-- <description>@todo add description</description> -->
+    <description>Get a subset of the items from the given array.</description>
 </snippet>

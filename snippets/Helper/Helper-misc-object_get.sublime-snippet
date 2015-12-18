@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+object_get(${1:\$object, ${2:'names.john'}, ${3:'default'});
+]]></content>
+    <tabTrigger>Helper::misc-object_get</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get an item from an object using "dot" notation.</description>
+</snippet>

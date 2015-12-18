@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+str_slug(${1:'fooBar'});
+]]></content>
+    <tabTrigger>Helper::strings-str_slug</tabTrigger>
+    <scope>source.php</scope>
+    <description>Generate a URL friendly "slug" from a given string.</description>
+</snippet>

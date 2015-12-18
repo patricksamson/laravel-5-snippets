@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
-ends_with(${1:'haystack'}, ${2:'needle'});
+ends_with(${1:'haystack'}, ${2:'needles'});
 ]]></content>
     <tabTrigger>Helper::strings-ends_with</tabTrigger>
     <scope>source.php</scope>
-    <description>Determine if the given haystack ends with a given needle.</description>
+    <description>Determine if a given string ends with a given substring.</description>
 </snippet>

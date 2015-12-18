@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+array_collapse(${1:\$array});
+]]></content>
+    <tabTrigger>Helper::array_collapse</tabTrigger>
+    <scope>source.php</scope>
+    <description>Collapse an array of arrays into a single array.</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+array_prepend(${1:\$array}, ${2:'value'});
+]]></content>
+    <tabTrigger>Helper::array_prepend</tabTrigger>
+    <scope>source.php</scope>
+    <description>Push an item onto the beginning of an array.</description>
+</snippet>

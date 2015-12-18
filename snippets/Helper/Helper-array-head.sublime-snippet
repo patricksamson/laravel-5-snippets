@@ -4,5 +4,5 @@ head(${1:\$array);
 ]]></content>
     <tabTrigger>Helper::array-head</tabTrigger>
     <scope>source.php</scope>
-    <description>Returns the first element in the given array</description>
+    <description>Get the first element of an array. Useful for method chaining.</description>
 </snippet>

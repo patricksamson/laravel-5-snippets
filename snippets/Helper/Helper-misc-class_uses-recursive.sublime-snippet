@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+class_uses_recursive(${1:'Foo\Bar\Baz'});
+]]></content>
+    <tabTrigger>Helper::misc-class_uses_recursive</tabTrigger>
+    <scope>source.php</scope>
+    <description>Returns all traits used by a class, its subclasses and trait of their traits.</description>
+</snippet>
