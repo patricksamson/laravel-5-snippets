@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-array_get(${1:\$array, ${2:'names.john'}, ${3:'default'});
+array_get(${1:\$array}, ${2:'names.john'}, ${3:'default'});
 ]]></content>
     <tabTrigger>Helper::array_get</tabTrigger>
     <scope>source.php</scope>

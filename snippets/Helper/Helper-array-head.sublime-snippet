@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-head(${1:\$array);
+head(${1:\$array});
 ]]></content>
     <tabTrigger>Helper::array-head</tabTrigger>
     <scope>source.php</scope>

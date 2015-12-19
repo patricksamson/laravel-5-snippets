@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-array_has(${1:\$array, ${2:key});
+array_has(${1:\$array}, ${2:key});
 ]]></content>
     <tabTrigger>Helper::array_has</tabTrigger>
     <scope>source.php</scope>
