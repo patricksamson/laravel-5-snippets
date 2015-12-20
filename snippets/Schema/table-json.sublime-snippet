@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-\$table->json('${1:column}')${2:->nullable()}${3:->default(${4:'text'})};
+\$table->json('${1:column}')${2:->nullable()};
 ]]></content>
     <tabTrigger>Column::json</tabTrigger>
     <scope>source.php</scope>
