@@ -1,5 +1,5 @@
 Laravel 5 Snippets for Sublime Text
-https://github.com/Lykegenes/laravel-five-snippets
+https://github.com/Lykegenes/laravel-5-snippets
 
 
 Version 1.2.0
