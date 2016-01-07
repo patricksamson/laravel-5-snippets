@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Route::controller('${1:users}', '${2:UserController}');
+]]></content>
+    <tabTrigger>Route::controller</tabTrigger>
+    <scope>source.php</scope>
+    <description>Route a controller to a URI with wildcard routing.</description>
+</snippet>
