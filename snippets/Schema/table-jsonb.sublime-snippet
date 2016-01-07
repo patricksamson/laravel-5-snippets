@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-\$table->jsonb('${1:column}')${2:->nullable()}${3:->default(${4:'text'})};
+\$table->jsonb('${1:column}')${2:->nullable()};
 ]]></content>
     <tabTrigger>Column::jsonb</tabTrigger>
     <scope>source.php</scope>

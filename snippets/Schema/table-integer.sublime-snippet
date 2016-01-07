@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-\$table->integer('${1:votes}')${2:->unsigned()${3:->nullable()}${4:->default(${5:12})}};
+\$table->integer('${1:votes}')${2:->unsigned()}${3:->nullable()}${4:->default(${5:12})};
 ]]></content>
     <tabTrigger>Column::integer</tabTrigger>
     <scope>source.php</scope>
