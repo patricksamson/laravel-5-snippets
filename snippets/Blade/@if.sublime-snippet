@@ -4,7 +4,7 @@
 
 @endif
 ]]></content>
-    <tabTrigger>@if</tabTrigger>
+    <tabTrigger>if</tabTrigger>
     <scope>text.html.laravel-blade, text.blade</scope>
     <description>Blade @if</description>
 </snippet>

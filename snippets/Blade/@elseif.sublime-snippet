@@ -2,7 +2,7 @@
     <content><![CDATA[
 @elseif (${1:\$condition})
 ]]></content>
-    <tabTrigger>@elseif</tabTrigger>
+    <tabTrigger>elseif</tabTrigger>
     <scope>text.html.laravel-blade, text.blade</scope>
     <description>Blade @elseif</description>
 </snippet>

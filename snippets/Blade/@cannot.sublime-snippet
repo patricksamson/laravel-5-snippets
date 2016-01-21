@@ -4,7 +4,7 @@
     ${3}
 @endcannot
 ]]></content>
-    <tabTrigger>@cannot</tabTrigger>
+    <tabTrigger>cannot</tabTrigger>
     <scope>text.html.laravel-blade, text.blade</scope>
     <description>Blade @cannot</description>
 </snippet>

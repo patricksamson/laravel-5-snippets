@@ -3,7 +3,7 @@
     <content><![CDATA[
 @stack('${1:stack name}')
 ]]></content>
-    <tabTrigger>@stack</tabTrigger>
+    <tabTrigger>stack</tabTrigger>
     <scope>text.html.laravel-blade, text.blade</scope>
     <description>Blade @stack</description>
 </snippet>

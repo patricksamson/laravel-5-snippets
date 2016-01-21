@@ -4,7 +4,7 @@
 
 @endfor
 ]]></content>
-    <tabTrigger>@for</tabTrigger>
+    <tabTrigger>for</tabTrigger>
     <scope>text.html.laravel-blade, text.blade</scope>
     <description>Blade @for</description>
 </snippet>

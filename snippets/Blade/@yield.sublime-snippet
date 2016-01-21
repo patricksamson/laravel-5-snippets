@@ -2,7 +2,7 @@
     <content><![CDATA[
 @yield('${1:content}')
 ]]></content>
-    <tabTrigger>@yield</tabTrigger>
+    <tabTrigger>yield</tabTrigger>
     <scope>text.html.laravel-blade, text.blade</scope>
     <description>Blade @yield</description>
 </snippet>
