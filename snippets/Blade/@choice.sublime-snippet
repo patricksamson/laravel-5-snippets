@@ -2,7 +2,7 @@
     <content><![CDATA[
 @choice('${1:file.message}', ${2:\$count})
 ]]></content>
-    <tabTrigger>@choice</tabTrigger>
+    <tabTrigger>choice</tabTrigger>
     <scope>text.html.laravel-blade, text.blade</scope>
     <description>Blade @choice</description>
 </snippet>

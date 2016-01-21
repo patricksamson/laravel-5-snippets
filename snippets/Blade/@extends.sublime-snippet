@@ -2,7 +2,7 @@
     <content><![CDATA[
 @extends('${1:layouts.name}')
 ]]></content>
-    <tabTrigger>@extends</tabTrigger>
+    <tabTrigger>extends</tabTrigger>
     <scope>text.html.laravel-blade, text.blade</scope>
     <description>Blade @extends</description>
 </snippet>

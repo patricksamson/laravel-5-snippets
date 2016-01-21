@@ -4,7 +4,7 @@
 
 @endforeach
 ]]></content>
-    <tabTrigger>@foreach</tabTrigger>
+    <tabTrigger>foreach</tabTrigger>
     <scope>text.html.laravel-blade, text.blade</scope>
     <description>Blade @foreach</description>
 </snippet>

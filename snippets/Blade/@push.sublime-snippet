@@ -4,7 +4,7 @@
 
 @endpush
 ]]></content>
-    <tabTrigger>@push</tabTrigger>
+    <tabTrigger>push</tabTrigger>
     <scope>text.html.laravel-blade, text.blade</scope>
     <description>Blade @push</description>
 </snippet>

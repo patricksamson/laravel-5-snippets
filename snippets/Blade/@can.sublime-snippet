@@ -6,7 +6,7 @@
 	${4}
 @endcan
 ]]></content>
-    <tabTrigger>@can</tabTrigger>
+    <tabTrigger>can</tabTrigger>
     <scope>text.html.laravel-blade, text.blade</scope>
     <description>Blade @can</description>
 </snippet>

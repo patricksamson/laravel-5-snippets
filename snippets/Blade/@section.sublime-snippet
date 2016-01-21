@@ -4,7 +4,7 @@
 
 @stop
 ]]></content>
-    <tabTrigger>@section</tabTrigger>
+    <tabTrigger>section</tabTrigger>
     <scope>text.html.laravel-blade, text.blade</scope>
     <description>Blade @section</description>
 </snippet>
