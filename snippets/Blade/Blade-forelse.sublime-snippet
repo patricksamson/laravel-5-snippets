@@ -6,7 +6,7 @@
 
 @endforelse
 ]]></content>
-    <tabTrigger>@forelse</tabTrigger>
+    <tabTrigger>Blade::forelse</tabTrigger>
     <scope>text.html.laravel-blade, text.blade</scope>
     <description>Blade @forelse</description>
 </snippet>

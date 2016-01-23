@@ -1,0 +1,17 @@
+Laravel 5 Snippets for Sublime Text
+https://github.com/Lykegenes/laravel-5-snippets
+
+
+Version 1.2.1
+********************************************************************************
+
+#### IMPROVEMENTS
+
+The Blade snippets available in this package will be triggered differently
+from now on. Previously, they were triggered by the `@` keyword, but it did
+not work properly for all users (the @ character was ignored).
+They are now available under the `Blade::` trigger keyword.
+
+Happy coding!
+
+Improvements or suggestions? Contribute on GitHub!

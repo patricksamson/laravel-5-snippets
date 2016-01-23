@@ -1,9 +1,10 @@
-
 <snippet>
     <content><![CDATA[
-@stack('${1:stack name}')
+@if (${1:\$condition})
+
+@endif
 ]]></content>
-    <tabTrigger>@stack</tabTrigger>
+    <tabTrigger>Blade::if</tabTrigger>
     <scope>text.html.laravel-blade, text.blade</scope>
-    <description>Blade @stack</description>
+    <description>Blade @if</description>
 </snippet>

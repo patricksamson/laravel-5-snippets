@@ -2,7 +2,7 @@
     <content><![CDATA[
 @lang('${1:file.message}')
 ]]></content>
-    <tabTrigger>@lang</tabTrigger>
+    <tabTrigger>Blade::lang</tabTrigger>
     <scope>text.html.laravel-blade, text.blade</scope>
     <description>Blade @lang</description>
 </snippet>

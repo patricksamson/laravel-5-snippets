@@ -2,7 +2,7 @@
     <content><![CDATA[
 @{{ ${1:This will not be processed by Blade} }}
 ]]></content>
-    <tabTrigger>@{{</tabTrigger>
+    <tabTrigger>Blade::{{</tabTrigger>
     <scope>text.html.laravel-blade, text.blade</scope>
     <description>Blade escape curly braces</description>
 </snippet>

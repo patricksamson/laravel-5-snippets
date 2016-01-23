@@ -4,7 +4,7 @@
 
 @endunless
 ]]></content>
-    <tabTrigger>@unless</tabTrigger>
+    <tabTrigger>Blade::unless</tabTrigger>
     <scope>text.html.laravel-blade, text.blade</scope>
     <description>Blade @unless</description>
 </snippet>

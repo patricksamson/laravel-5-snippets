@@ -4,7 +4,7 @@
 
 @endwhile
 ]]></content>
-    <tabTrigger>@while</tabTrigger>
+    <tabTrigger>Blade::while</tabTrigger>
     <scope>text.html.laravel-blade, text.blade</scope>
     <description>Blade @while</description>
 </snippet>

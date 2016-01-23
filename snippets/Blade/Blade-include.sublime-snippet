@@ -2,7 +2,7 @@
     <content><![CDATA[
 @include('${1:view.name}', ${1:\$data})
 ]]></content>
-    <tabTrigger>@include</tabTrigger>
+    <tabTrigger>Blade::include</tabTrigger>
     <scope>text.html.laravel-blade, text.blade</scope>
     <description>Blade @include</description>
 </snippet>
