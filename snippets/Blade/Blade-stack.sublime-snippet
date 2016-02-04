@@ -4,6 +4,6 @@
 @stack('${1:stack name}')
 ]]></content>
     <tabTrigger>Blade::stack</tabTrigger>
-    <scope>text.html.laravel-blade, text.blade</scope>
+    <scope>text.html</scope>
     <description>Blade @stack</description>
 </snippet>

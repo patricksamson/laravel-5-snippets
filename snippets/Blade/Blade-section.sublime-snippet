@@ -5,6 +5,6 @@
 @stop
 ]]></content>
     <tabTrigger>Blade::section</tabTrigger>
-    <scope>text.html.laravel-blade, text.blade</scope>
+    <scope>text.html</scope>
     <description>Blade @section</description>
 </snippet>

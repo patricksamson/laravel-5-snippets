@@ -5,6 +5,6 @@
 @endif
 ]]></content>
     <tabTrigger>Blade::if</tabTrigger>
-    <scope>text.html.laravel-blade, text.blade</scope>
+    <scope>text.html</scope>
     <description>Blade @if</description>
 </snippet>

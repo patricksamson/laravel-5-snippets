@@ -3,6 +3,6 @@
 @lang('${1:file.message}')
 ]]></content>
     <tabTrigger>Blade::lang</tabTrigger>
-    <scope>text.html.laravel-blade, text.blade</scope>
+    <scope>text.html</scope>
     <description>Blade @lang</description>
 </snippet>

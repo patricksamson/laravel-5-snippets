@@ -2,7 +2,7 @@
     <content><![CDATA[
 {!! ${1:some unescaped value} !!}
 ]]></content>
-    <tabTrigger>{!!</tabTrigger>
-    <scope>text.html.laravel-blade, text.blade</scope>
+    <tabTrigger>Blade::unescaped</tabTrigger>
+    <scope>text.html</scope>
     <description>Blade {!! echo raw data !!}</description>
 </snippet>

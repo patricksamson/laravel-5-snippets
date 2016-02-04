@@ -3,6 +3,6 @@
 @{{ ${1:This will not be processed by Blade} }}
 ]]></content>
     <tabTrigger>Blade::{{</tabTrigger>
-    <scope>text.html.laravel-blade, text.blade</scope>
+    <scope>text.html</scope>
     <description>Blade escape curly braces</description>
 </snippet>

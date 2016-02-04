@@ -7,6 +7,6 @@
 @endif
 ]]></content>
     <tabTrigger>Blade::ifelse</tabTrigger>
-    <scope>text.html.laravel-blade, text.blade</scope>
+    <scope>text.html</scope>
     <description>Blade @ifelse</description>
 </snippet>

@@ -3,6 +3,6 @@
 {{ ${1:some escaped value} ${2:or 'default'} }}
 ]]></content>
     <tabTrigger>{{</tabTrigger>
-    <scope>text.html.laravel-blade, text.blade</scope>
+    <scope>text.html</scope>
     <description>Blade {{ echo escaped data }}</description>
 </snippet>
