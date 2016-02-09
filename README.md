@@ -26,11 +26,7 @@ git clone https://github.com/Lykegenes/laravel-5-snippets.git "Laravel 5 Snippet
 The included snippets are organized in categories following Laravel's Facades and their documentation; such as `Auth::`, `Config::` and `Session::`.
 This way, you can quickly search for wat you'd like to accomplish thanks to Sublime Text fuzzy search.
 
-All the snippets in this package follow the following naming convention :
-```
-{category}::{function name}
-```
-For example : `Auth::check` will produce this snippet in your code : `Auth::check()`.
+All the snippets in this package follow the following naming convention : `{category}::{function name}`. For example : `Auth::check` will produce this snippet in your code : `Auth::check()`.
 
 ### Included snippets
 Here are the available snippet categories and prefixes :
