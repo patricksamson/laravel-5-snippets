@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-Route::group(${1:['${1:prefix}' => '${2:admin}']}, function() {
-    ${3://}
+Route::group(${1:['${2:prefix}' => '${3:admin}']}, function() {
+    ${4://}
 });
 ]]></content>
     <tabTrigger>Route::group</tabTrigger>
