@@ -1,0 +1,24 @@
+<snippet>
+    <content><![CDATA[
+Mail::raw('${1:plain text message}', function (${2:\$message}) {
+    ${2}->from(${3:'john@johndoe.com'}, ${4:'John Doe'});
+    ${2}->sender(${5:'john@johndoe.com'}, ${6:'John Doe'});
+
+    ${2}->to(${7:'john@johndoe.com'}, ${8:'John Doe'});
+
+    ${2}->cc(${9:'john@johndoe.com'}, ${10:'John Doe'});
+    ${2}->bcc(${11:'john@johndoe.com'}, ${12:'John Doe'});
+
+    ${2}->replyTo(${13:'john@johndoe.com'}, ${14:'John Doe'});
+
+    ${2}->subject(${15:'Subject'});
+
+    ${2}->priority(${16:3});
+
+    ${2}->attach(${17:'pathToFile'});
+});
+]]></content>
+    <tabTrigger>Mail::raw</tabTrigger>
+    <scope>source.php</scope>
+    <description>Send a new message when only a raw text part.</description>
+</snippet>

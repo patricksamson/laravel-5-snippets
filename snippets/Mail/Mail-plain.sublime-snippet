@@ -1,0 +1,24 @@
+<snippet>
+    <content><![CDATA[
+Mail::plain('${1:plainText.view}', ${2:\$data}, function (${3:\$message}) {
+    ${3}->from(${4:'john@johndoe.com'}, ${5:'John Doe'});
+    ${3}->sender(${6:'john@johndoe.com'}, ${7:'John Doe'});
+
+    ${3}->to(${8:'john@johndoe.com'}, ${9:'John Doe'});
+
+    ${3}->cc(${10:'john@johndoe.com'}, ${11:'John Doe'});
+    ${3}->bcc(${12:'john@johndoe.com'}, ${13:'John Doe'});
+
+    ${3}->replyTo(${14:'john@johndoe.com'}, ${15:'John Doe'});
+
+    ${3}->subject(${16:'Subject'});
+
+    ${3}->priority(${17:3});
+
+    ${3}->attach(${18:'pathToFile'});
+});
+]]></content>
+    <tabTrigger>Mail::plain</tabTrigger>
+    <scope>source.php</scope>
+    <description>Send a new message when only a plain part.</description>
+</snippet>

@@ -1,0 +1,24 @@
+<snippet>
+    <content><![CDATA[
+Mail::later(${1:5}, '${2:Html.view}', ${3:\$data}, function (${4:\$message}) {
+    ${4}->from(${5:'john@johndoe.com'}, ${6:'John Doe'});
+    ${4}->sender(${7:'john@johndoe.com'}, ${8:'John Doe'});
+
+    ${4}->to(${9:'john@johndoe.com'}, ${10:'John Doe'});
+
+    ${4}->cc(${11:'john@johndoe.com'}, ${12:'John Doe'});
+    ${4}->bcc(${13:'john@johndoe.com'}, ${14:'John Doe'});
+
+    ${4}->replyTo(${15:'john@johndoe.com'}, ${16:'John Doe'});
+
+    ${4}->subject(${17:'Subject'});
+
+    ${4}->priority(${18:3});
+
+    ${4}->attach(${19:'pathToFile'});
+});
+]]></content>
+    <tabTrigger>Mail::later</tabTrigger>
+    <scope>source.php</scope>
+    <description>Queue a new e-mail message for sending after (n) seconds.</description>
+</snippet>

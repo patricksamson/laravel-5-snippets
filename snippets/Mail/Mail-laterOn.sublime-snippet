@@ -1,0 +1,24 @@
+<snippet>
+    <content><![CDATA[
+Mail::queueOn(${1:'queue-name'}, ${2:5}, '${3:Html.view}', ${4:\$data}, function (${5:\$message}) {
+    ${5}->from(${6:'john@johndoe.com'}, ${7:'John Doe'});
+    ${5}->sender(${8:'john@johndoe.com'}, ${9:'John Doe'});
+
+    ${5}->to(${10:'john@johndoe.com'}, ${11:'John Doe'});
+
+    ${5}->cc(${12:'john@johndoe.com'}, ${13:'John Doe'});
+    ${5}->bcc(${14:'john@johndoe.com'}, ${15:'John Doe'});
+
+    ${5}->replyTo(${16:'john@johndoe.com'}, ${17:'John Doe'});
+
+    ${5}->subject(${18:'Subject'});
+
+    ${5}->priority(${19:3});
+
+    ${5}->attach(${20:'pathToFile'});
+});
+]]></content>
+    <tabTrigger>Mail::laterOn</tabTrigger>
+    <scope>source.php</scope>
+    <description>Queue a new e-mail message for sending after (n) seconds on the given queue.</description>
+</snippet>
