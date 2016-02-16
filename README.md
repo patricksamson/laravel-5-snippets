@@ -34,7 +34,7 @@ Here are the available snippet categories and prefixes :
 Prefix      | Notes
 ----------- | -------------
 Auth  |
-Blade  | Snippets will only show up in Blade files `*.blade.php`.
+Blade  | Add `, text.html` to the default value of `"auto_complete_selector"` in your Sublime Text settings to allow Snippets autocomplete in Blade files.
 Cache  |
 Config  |
 Console  |
@@ -45,6 +45,7 @@ Hash  |
 Helper  | Contains sub-categories : `Helper::array`, `Helper::misc`, `Helper::path`, `Helper::strings`, and `Helper::url`; just like in [Laravel's documentation](http://laravel.com/docs/5.1/helpers#available-methods).
 Input  |
 Log  |
+Mail |
 Redirect  |
 Response  |
 Route  |
