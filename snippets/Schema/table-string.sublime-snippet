@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-\$table->string('${1:name}', ${2:100})${2:->nullable()}${3:->default(${4:'text'})};
+\$table->string('${1:name}', ${2:100})${3:->nullable()}${5:->default(${6:'text'})};
 ]]></content>
     <tabTrigger>Column::string</tabTrigger>
     <scope>source.php</scope>
