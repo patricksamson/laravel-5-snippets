@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+DB::delete(${1:'delete users where name = ?'}${2:, ['John']})
+]]></content>
+    <tabTrigger>DB::delete</tabTrigger>
+    <scope>source.php</scope>
+    <description>Run an delete statement against the database.</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+DB::update(${1:'update users set votes = 100 where name = ?'}${2:, ['John']})
+]]></content>
+    <tabTrigger>DB::update</tabTrigger>
+    <scope>source.php</scope>
+    <description>Run an update statement against the database.</description>
+</snippet>

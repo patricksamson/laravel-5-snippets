@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+DB::beginTransaction();
+]]></content>
+    <tabTrigger>DB::transaction_begin</tabTrigger>
+    <scope>source.php</scope>
+    <description>Start a new database transaction.</description>
+</snippet>

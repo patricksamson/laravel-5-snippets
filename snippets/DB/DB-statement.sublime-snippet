@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+DB::statement(${1:'drop table users'})
+]]></content>
+    <tabTrigger>DB::select</tabTrigger>
+    <scope>source.php</scope>
+    <description>Execute an SQL statement and return the boolean result.</description>
+</snippet>

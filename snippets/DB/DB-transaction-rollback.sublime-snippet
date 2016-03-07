@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+DB::rollback();
+]]></content>
+    <tabTrigger>DB::transaction_rollback</tabTrigger>
+    <scope>source.php</scope>
+    <description>Rollback the active database transaction.</description>
+</snippet>

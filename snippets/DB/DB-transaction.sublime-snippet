@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+DB::transaction(function () {
+    ${1://}
+});
+]]></content>
+    <tabTrigger>DB::transaction</tabTrigger>
+    <scope>source.php</scope>
+    <description>Execute a Closure within a transaction.</description>
+</snippet>

@@ -40,6 +40,7 @@ Config  |
 Console  |
 Cookie  |
 Crypt  |
+DB  | To create raw database queries and transactions.
 Event  |
 Hash  |
 Helper  | Contains sub-categories : `Helper::array`, `Helper::misc`, `Helper::path`, `Helper::strings`, and `Helper::url`; just like in [Laravel's documentation](http://laravel.com/docs/5.1/helpers#available-methods).
