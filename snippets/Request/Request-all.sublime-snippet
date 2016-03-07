@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$request->all()
+]]></content>
+    <tabTrigger>Request::all</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get all of the input and files for the request.</description>
+</snippet>

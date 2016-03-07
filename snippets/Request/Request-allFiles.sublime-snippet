@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$request->allFiles()
+]]></content>
+    <tabTrigger>Request::allFiles</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get an array of all of the files on the request.</description>
+</snippet>

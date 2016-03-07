@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$request->file(${1:'key'}${2:, 'default'})
+]]></content>
+    <tabTrigger>Request::file</tabTrigger>
+    <scope>source.php</scope>
+    <description>Retrieve a file from the request.</description>
+</snippet>

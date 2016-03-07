@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$request->exists(${1:'key'})
+]]></content>
+    <tabTrigger>Request::exists</tabTrigger>
+    <scope>source.php</scope>
+    <description>Determine if the request contains a given input item key.</description>
+</snippet>

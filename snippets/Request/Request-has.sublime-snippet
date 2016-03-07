@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$request->has(${1:'key'})
+]]></content>
+    <tabTrigger>Request::has</tabTrigger>
+    <scope>source.php</scope>
+    <description>Determine if the request contains a non-empty value for an input item.</description>
+</snippet>
