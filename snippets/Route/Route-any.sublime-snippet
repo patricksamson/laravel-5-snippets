@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-Route::any('${2:users/{id\\}}', function(${3:$id}) {
+Route::any('${2:users/{id\}}', function(${3:$id}) {
     ${4://}
 });
 ]]></content>

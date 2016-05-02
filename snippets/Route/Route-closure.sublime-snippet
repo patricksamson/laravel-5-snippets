@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-Route::${1:get}('${2:users/{id\\}}', function(${3:$id}) {
+Route::${1:get}('${2:users/{id\}}', function(${3:$id}) {
     ${4://}
 });
 ]]></content>

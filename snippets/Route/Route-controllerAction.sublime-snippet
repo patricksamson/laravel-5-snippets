@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-Route::${1:get}('${2:users/{id\\}}', '${3:$UserController@profile}');
+Route::${1:get}('${2:users/{id\}}', '${3:$UserController@profile}');
 ]]></content>
     <tabTrigger>Route::controllerAction</tabTrigger>
     <scope>source.php</scope>
