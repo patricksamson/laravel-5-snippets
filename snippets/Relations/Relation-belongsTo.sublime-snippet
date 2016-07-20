@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+public function ${1:user}()
+{
+    return \$this->belongsTo('${2:App\User}'${3:, '${4:foreign_key}'}${5:, '${6:other_key}'});
+}
+]]></content>
+    <tabTrigger>Relation::belongsTo</tabTrigger>
+    <scope>source.php</scope>
+    <description>A one-to-one inverse relationship.</description>
+</snippet>

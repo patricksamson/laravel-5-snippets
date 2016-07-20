@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+public function ${1:user}()
+{
+    return \$this->hasOne('${2:App\User}'${3:, '${4:foreign_key}'}${5:, '${6:local_key}'});
+}
+]]></content>
+    <tabTrigger>Relation::hasOne</tabTrigger>
+    <scope>source.php</scope>
+    <description>A one-to-one relationship.</description>
+</snippet>

@@ -48,6 +48,7 @@ Input  |
 Log  |
 Mail |
 Redirect  |
+Relation | To create model relationships.
 Response  |
 Route  |
 Schema  | Contains two sub-categories : `Schema::` for snippets related to the database table itself; and `Column::` for snippets related to the columns.

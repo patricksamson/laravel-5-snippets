@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+public function ${1:comments}()
+{
+    return \$this->hasManyThrough('${2:App\Comment}', ${3:App\Post});
+}
+]]></content>
+    <tabTrigger>Relation::hasManyThrough</tabTrigger>
+    <scope>source.php</scope>
+    <description>A Has Many Through relationship.</description>
+</snippet>

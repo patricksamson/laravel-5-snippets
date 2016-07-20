@@ -1,0 +1,17 @@
+Laravel 5 Snippets for Sublime Text
+https://github.com/Lykegenes/laravel-5-snippets
+
+
+Version 1.2.11
+********************************************************************************
+
+#### NEW SNIPPETS
+
+New Route snippets have been added for the get/post/put/delete actions.
+
+New snippets have been added to create model relationships.
+They are now available under the `Relation::` trigger keyword.
+
+Happy coding!
+
+Improvements or suggestions? Contribute on GitHub!
