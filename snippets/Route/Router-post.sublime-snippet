@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-Route::post('${2:users/{id\}}', function(${3:$id}) {
-    ${4://}
+Route::post('${1:users/{id\}}', function(${2:$id}) {
+    ${3://}
 });
 ]]></content>
     <tabTrigger>Route::post</tabTrigger>
