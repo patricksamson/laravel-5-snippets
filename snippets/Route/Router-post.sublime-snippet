@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+Route::post('${2:users/{id\}}', function(${3:$id}) {
+    ${4://}
+});
+]]></content>
+    <tabTrigger>Route::post</tabTrigger>
+    <scope>source.php</scope>
+    <description>Basic Post Route.</description>
+</snippet>
