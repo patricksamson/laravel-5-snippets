@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
 @can('${1:ability}', ${2:\$object})
-    ${3//}
+    ${3}
 @else
-	${4//}
+	${4}
 @endcan
 ]]></content>
     <tabTrigger>Blade::can</tabTrigger>
