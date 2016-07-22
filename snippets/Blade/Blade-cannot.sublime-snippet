@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
 @cannot('${1:ability}', ${2:\$object})
-    ${3//}
+    ${3}
 @endcannot
 ]]></content>
     <tabTrigger>Blade::cannot</tabTrigger>
