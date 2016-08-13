@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-Auth::attempt(['email' => $1, 'password' => $0])
+Auth::attempt(['email' => ${1:\$email}, 'password' => ${2:\$password}])
 ]]></content>
     <tabTrigger>Auth::attempt</tabTrigger>
     <scope>source.php</scope>
