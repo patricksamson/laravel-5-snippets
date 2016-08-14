@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-Auth::guard(${1:name})$0
+Auth::guard(${1:name})
 ]]></content>
     <tabTrigger>Auth::guard</tabTrigger>
     <scope>source.php</scope>
