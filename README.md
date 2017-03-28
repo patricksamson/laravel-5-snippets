@@ -55,6 +55,7 @@ Schema  | Contains two sub-categories : `Schema::` for snippets related to the d
 Session  |
 Storage  |
 View  |
+Test  |
 
 
 ## Credits
