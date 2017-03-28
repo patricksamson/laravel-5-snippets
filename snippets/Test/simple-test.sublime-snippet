@@ -7,7 +7,7 @@
     	${2://}
 	}
 ]]></content>
-    <tabTrigger>test::</tabTrigger>
+    <tabTrigger>test::simple</tabTrigger>
     <scope>source.php</scope>
     <description>Simple test method</description>
 </snippet>

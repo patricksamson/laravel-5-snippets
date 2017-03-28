@@ -7,7 +7,7 @@
    		${2://}
 	}
 ]]></content>
-    <tabTrigger>use::testdb</tabTrigger>
+    <tabTrigger>test::db</tabTrigger>
     <scope>source.php</scope>
     <description>Testing with database</description>
 </snippet>
