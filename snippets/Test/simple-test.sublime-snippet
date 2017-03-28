@@ -1,0 +1,13 @@
+<!-- I'm not sure with name convention but I think someone will have a basic id -->
+<snippet>
+    <content><![CDATA[
+   /** @test */
+    function ${1: fname}()
+    {
+    	${2://}
+	}
+]]></content>
+    <tabTrigger>test::</tabTrigger>
+    <scope>source.php</scope>
+    <description>Simple test method</description>
+</snippet>
