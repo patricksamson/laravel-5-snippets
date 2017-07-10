@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+    use DatabaseMigrations;
+   /** @test */
+   function ${1: fname}()
+   {
+   		${2://}
+	}
+]]></content>
+    <tabTrigger>test::db</tabTrigger>
+    <scope>source.php</scope>
+    <description>Testing with database</description>
+</snippet>
