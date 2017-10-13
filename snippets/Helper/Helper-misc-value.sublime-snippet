@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+${1:\$result} = value(function () {
+    ${2:return 'anything, really'}
+});
+]]></content>
+    <tabTrigger>DB::transaction</tabTrigger>
+    <scope>source.php</scope>
+    <description>Returns the value it is given, or executes the closure.</description>
+</snippet>

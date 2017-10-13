@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+__('${1:messages.welcome}');
+]]></content>
+    <tabTrigger>Helper::strings-__</tabTrigger>
+    <scope>source.php</scope>
+    <description>Translates the given translation key.</description>
+</snippet>

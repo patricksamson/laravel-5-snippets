@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+logger(${1:'debug message'});
+]]></content>
+    <tabTrigger>Helper::misc-logger</tabTrigger>
+    <scope>source.php</scope>
+    <description>Writes a debug level message to the log.</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+config('${1:key}', '${2:default}')
+]]></content>
+    <tabTrigger>Helper::misc-config</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get the value of a configuration variable.</description>
+</snippet>

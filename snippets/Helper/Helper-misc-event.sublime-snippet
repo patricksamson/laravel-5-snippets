@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+event(${1:new UserRegistered(\$user)});
+]]></content>
+    <tabTrigger>Helper::misc-event</tabTrigger>
+    <scope>source.php</scope>
+    <description>Dispatches the given event to its listeners.</description>
+</snippet>

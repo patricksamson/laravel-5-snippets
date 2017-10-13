@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+abort(403);
+]]></content>
+    <tabTrigger>Helper::misc-abort</tabTrigger>
+    <scope>source.php</scope>
+    <description>Throws an HTTP exception which will be rendered by the exception handler.</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+validator('${1:\$data}', '${2:\$rules}', '${3:\$messages}')
+]]></content>
+    <tabTrigger>Helper::misc-validator</tabTrigger>
+    <scope>source.php</scope>
+    <description>Creates a new validator instance with the given arguments.</description>
+</snippet>

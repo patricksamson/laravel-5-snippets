@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:\$user} = factory(${2:App\User::class})->make();
+]]></content>
+    <tabTrigger>Helper::misc-factory</tabTrigger>
+    <scope>source.php</scope>
+    <description>Creates a model factory builder for a given class name.</description>
+</snippet>

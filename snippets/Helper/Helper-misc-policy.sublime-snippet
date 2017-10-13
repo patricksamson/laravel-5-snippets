@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+policy(${1:App/User::class});
+]]></content>
+    <tabTrigger>Helper::misc-policy</tabTrigger>
+    <scope>source.php</scope>
+    <description>Retrieves a policy instance for a given class.</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+abort_unless(${1:Auth::user()->isAdmin()}, ${2:403});
+]]></content>
+    <tabTrigger>Helper::misc-abort-unless</tabTrigger>
+    <scope>source.php</scope>
+    <description>Throws an HTTP exception if a given boolean expression evaluates to false.</description>
+</snippet>

@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-\$this->option('${1}');
+\$this->option('${1:key}');
 ]]></content>
   <tabTrigger>Console::option</tabTrigger>
   <scope>source.php</scope>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+blank(${1:\$value});
+]]></content>
+    <tabTrigger>Helper::misc-blank</tabTrigger>
+    <scope>source.php</scope>
+    <description>Returns whether the given value is "blank".</description>
+</snippet>

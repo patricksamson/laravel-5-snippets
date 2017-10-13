@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
 Cache::rememberForever('${1:key}', function() {
-    ${2://}
+    ${2:return 'value';}
 });
 ]]></content>
     <tabTrigger>Cache::rememberForever</tabTrigger>

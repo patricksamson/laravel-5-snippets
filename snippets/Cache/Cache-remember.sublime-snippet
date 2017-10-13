@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-Cache::remember('${1:key}', ${2:\$minutes}, function() {
-    ${3://}
+Cache::remember('${1:key}', ${2:\minutes}, function() {
+    ${3:return 'value';}
 });
 ]]></content>
     <tabTrigger>Cache::remember</tabTrigger>

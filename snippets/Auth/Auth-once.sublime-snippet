@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Auth::once(${1:\$credentials})
+]]></content>
+	<tabTrigger>Auth::once</tabTrigger>
+	<scope>source.php</scope>
+    <description>Log an existing user for a single request.</description>
+</snippet>

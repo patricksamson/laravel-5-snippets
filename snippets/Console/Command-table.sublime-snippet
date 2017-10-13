@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-\$this->table('${1:\$header}, ${2:\$row}');
+\$this->table(${1:\$headers}, ${2:\$rows}');
 ]]></content>
   <tabTrigger>Console::table</tabTrigger>
   <scope>source.php</scope>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-str_slug(${1:'fooBar'});
+str_slug(${1:'Laravel 5 Framework'}, ${2:'-'});
 ]]></content>
     <tabTrigger>Helper::strings-str_slug</tabTrigger>
     <scope>source.php</scope>

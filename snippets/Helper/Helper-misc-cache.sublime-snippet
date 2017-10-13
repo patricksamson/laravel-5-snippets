@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+cache('${1:key}', '${2:default}')
+]]></content>
+    <tabTrigger>Helper::misc-cache</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get values from the cache.</description>
+</snippet>

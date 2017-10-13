@@ -4,5 +4,5 @@ trait_uses_recursive(${1:'Foo\Bar\Baz'});
 ]]></content>
     <tabTrigger>Helper::misc-trait_uses_recursive</tabTrigger>
     <scope>source.php</scope>
-    <description>Returns all traits used by a trait and its traits.</description>
+    <description>Returns all traits used by a trait.</description>
 </snippet>

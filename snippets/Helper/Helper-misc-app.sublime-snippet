@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+app();
+]]></content>
+    <tabTrigger>Helper::misc-app</tabTrigger>
+    <scope>source.php</scope>
+    <description>Returns the service container instance.</description>
+</snippet>

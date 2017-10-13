@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+now()
+]]></content>
+    <tabTrigger>Helper::misc-now</tabTrigger>
+    <scope>source.php</scope>
+    <description>Creates a new Carbon instance for the current time.</description>
+</snippet>

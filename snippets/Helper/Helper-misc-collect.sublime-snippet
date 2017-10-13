@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-collect(${1:'Foo\Bar\Baz'});
+collect([${1:'taylor', 'abigail'}]);
 ]]></content>
     <tabTrigger>Helper::misc-collect</tabTrigger>
     <scope>source.php</scope>

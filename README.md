@@ -43,7 +43,7 @@ Crypt  |
 DB  | To create raw database queries and transactions.
 Event  |
 Hash  |
-Helper  | Contains sub-categories : `Helper::array`, `Helper::misc`, `Helper::path`, `Helper::strings`, and `Helper::url`; just like in [Laravel's documentation](http://laravel.com/docs/5.1/helpers#available-methods).
+Helper  | Contains sub-categories : `Helper::array`, `Helper::misc`, `Helper::path`, `Helper::strings`, and `Helper::url`; just like in [Laravel's documentation](http://laravel.com/docs/5.5/helpers#available-methods).
 Input  |
 Log  |
 Mail |
@@ -68,7 +68,7 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 
 [ico-package-control]: https://img.shields.io/packagecontrol/dt/Laravel%205%20Snippets.svg
 [ico-latest-version]: https://img.shields.io/github/release/lykegenes/laravel-5-snippets.svg
-[ico-laravel-version]: https://img.shields.io/badge/Laravel-5.1|5.2-orange.svg
+[ico-laravel-version]: https://img.shields.io/badge/Laravel-5.5-orange.svg
 
 [link-package-control]: https://packagecontrol.io/packages/Laravel%205%20Snippets
 [link-latest-version]: https://github.com/Lykegenes/laravel-5-snippets/releases

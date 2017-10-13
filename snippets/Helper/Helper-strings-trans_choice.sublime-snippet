@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
-trans_choice(${1:'foo.bar'}, ${2:\$count});
+trans_choice('${1:messages.notifications}', ${2:\$unreadCount});
 ]]></content>
     <tabTrigger>Helper::strings-trans_choice</tabTrigger>
     <scope>source.php</scope>
-    <description>Translate a given language line with inflection. Alias of Lang::choice.</description>
+    <description>Translates the given translation key with inflection.</description>
 </snippet>

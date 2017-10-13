@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+env('${1:KEY}', '${2:default}')
+]]></content>
+    <tabTrigger>Helper::misc-env</tabTrigger>
+    <scope>source.php</scope>
+    <description>Retrieves the value of an environment variable.</description>
+</snippet>

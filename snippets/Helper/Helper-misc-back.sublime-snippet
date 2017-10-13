@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+back();
+]]></content>
+    <tabTrigger>Helper::misc-back</tabTrigger>
+    <scope>source.php</scope>
+    <description>Generates a redirect HTTP response to the user's previous location.</description>
+</snippet>

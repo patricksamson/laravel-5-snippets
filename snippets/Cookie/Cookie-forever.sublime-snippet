@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-\$response->withCookie(cookie()->forever('${1:key}', ${2:\$value}));
+\$response->cookie(cookie()->forever('${1:key}', ${2:\$value}));
 ]]></content>
     <tabTrigger>Cookie::forever</tabTrigger>
     <scope>source.php</scope>

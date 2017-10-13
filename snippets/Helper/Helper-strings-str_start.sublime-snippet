@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+str_start(${1:'this/string'}, ${2:'/'});
+]]></content>
+    <tabTrigger>Helper::strings-str_start</tabTrigger>
+    <scope>source.php</scope>
+    <description>Adds a single instance of the given value to a string if it does not already start with the value.</description>
+</snippet>

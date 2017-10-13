@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+old('${1:value}', '${2:default}')
+]]></content>
+    <tabTrigger>Helper::misc-old</tabTrigger>
+    <scope>source.php</scope>
+    <description>Retrieves an old input value flashed into the session.</description>
+</snippet>

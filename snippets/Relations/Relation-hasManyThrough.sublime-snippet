@@ -2,7 +2,7 @@
     <content><![CDATA[
 public function ${1:comments}()
 {
-    return \$this->hasManyThrough('${2:App\Comment}', ${3:App\Post});
+    return \$this->hasManyThrough(${2:Comment::class}, ${3:Post::class});
 }
 ]]></content>
     <tabTrigger>Relation::hasManyThrough</tabTrigger>

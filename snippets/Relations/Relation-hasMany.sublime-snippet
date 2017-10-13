@@ -2,7 +2,7 @@
     <content><![CDATA[
 public function ${1:comments}()
 {
-    return \$this->hasMany('${2:App\Comment}'${3:, '${4:foreign_key}'}${5:, '${6:local_key}'});
+    return \$this->hasMany(${2:Comment::class}${3:, '${4:foreign_key}'}${5:, '${6:local_key}'});
 }
 ]]></content>
     <tabTrigger>Relation::hasMany</tabTrigger>

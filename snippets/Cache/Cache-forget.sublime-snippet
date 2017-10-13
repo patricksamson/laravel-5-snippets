@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-Cache::forget('${1:key}');
+Cache::forget('{1:\$key}');
 ]]></content>
     <tabTrigger>Cache::forget</tabTrigger>
     <scope>source.php</scope>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+dispatch_now(${1:new App\Jobs\SendEmails});
+]]></content>
+    <tabTrigger>Helper::misc-dispatch_now</tabTrigger>
+    <scope>source.php</scope>
+    <description>Runs the given job immediately and returns the value from its handle method.</description>
+</snippet>

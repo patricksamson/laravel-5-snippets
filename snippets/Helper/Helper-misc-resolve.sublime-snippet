@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+resolve(${1:'Foo/Bar'});
+]]></content>
+    <tabTrigger>Helper::misc-resolve</tabTrigger>
+    <scope>source.php</scope>
+    <description>Resolve the given class from the container.</description>
+</snippet>

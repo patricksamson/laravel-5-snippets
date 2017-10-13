@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+database_path();
+]]></content>
+    <tabTrigger>Helper::path-database</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get the fully qualified path to the database directory.</description>
+</snippet>

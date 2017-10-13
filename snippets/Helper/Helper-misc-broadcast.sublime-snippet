@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+broadcast(${1:new UserRegistered(\$user)});
+]]></content>
+    <tabTrigger>Helper::misc-broadcast</tabTrigger>
+    <scope>source.php</scope>
+    <description>Broacasts the given event to its listeners.</description>
+</snippet>

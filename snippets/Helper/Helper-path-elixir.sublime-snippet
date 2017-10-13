@@ -1,8 +1,0 @@
-<snippet>
-    <content><![CDATA[
-elixir('${1:file}');
-]]></content>
-    <tabTrigger>Helper::path-elixir</tabTrigger>
-    <scope>source.php</scope>
-    <description>Get the path to the versionned Elixir file.</description>
-</snippet>

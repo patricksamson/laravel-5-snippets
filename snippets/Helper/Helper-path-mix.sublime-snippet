@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+mix('${1:file}');
+]]></content>
+    <tabTrigger>Helper::path-mix</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get the path to the versionned Mix file.</description>
+</snippet>
