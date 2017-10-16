@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+@component('${1:alert}')
+	${2:content}
+@endcomponent
+]]></content>
+    <tabTrigger>Blade::component</tabTrigger>
+    <scope>text.blade</scope>
+    <description>Blade @component</description>
+</snippet>

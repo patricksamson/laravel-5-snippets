@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+@switch('${1:\$value}')
+	@case(${2:'case1'})
+        ${3:First case...}
+        @break;
+
+    ${4:@default
+        Default case...}
+@endswitch
+]]></content>
+    <tabTrigger>Blade::switch</tabTrigger>
+    <scope>text.blade</scope>
+    <description>Blade @switch</description>
+</snippet>

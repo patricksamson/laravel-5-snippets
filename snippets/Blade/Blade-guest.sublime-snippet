@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+@guest(${1:'optional guard'})
+    ${2:content}
+@endguest
+]]></content>
+    <tabTrigger>Blade::guest</tabTrigger>
+    <scope>text.blade</scope>
+    <description>Blade @guest</description>
+</snippet>

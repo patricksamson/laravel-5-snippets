@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+@empty('${1:\$records}')
+    ${2:content}
+@endempty
+]]></content>
+    <tabTrigger>Blade::empty</tabTrigger>
+    <scope>text.blade</scope>
+    <description>Blade @empty</description>
+</snippet>

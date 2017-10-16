@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+@auth(${1:'optional guard'})
+    ${2:content}
+@endauth
+]]></content>
+    <tabTrigger>Blade::auth</tabTrigger>
+    <scope>text.blade</scope>
+    <description>Blade @auth</description>
+</snippet>

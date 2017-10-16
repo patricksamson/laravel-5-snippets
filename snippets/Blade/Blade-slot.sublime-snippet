@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+@slot('${1:title}')
+	${2:content}
+@endslot
+]]></content>
+    <tabTrigger>Blade::slot</tabTrigger>
+    <scope>text.blade</scope>
+    <description>Blade @slot</description>
+</snippet>

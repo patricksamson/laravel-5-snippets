@@ -1,0 +1,11 @@
+
+<snippet>
+    <content><![CDATA[
+@verbatim
+    ${1:content}
+@endverbatim
+]]></content>
+    <tabTrigger>Blade::verbatim</tabTrigger>
+    <scope>text.blade</scope>
+    <description>Blade @verbatim</description>
+</snippet>
