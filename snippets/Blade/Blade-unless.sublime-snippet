@@ -5,6 +5,6 @@
 @endunless
 ]]></content>
     <tabTrigger>Blade::unless</tabTrigger>
-    <scope>text.html</scope>
+    <scope>text.blade</scope>
     <description>Blade @unless</description>
 </snippet>

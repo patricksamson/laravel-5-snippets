@@ -5,6 +5,6 @@
 @endfor
 ]]></content>
     <tabTrigger>Blade::for</tabTrigger>
-    <scope>text.html</scope>
+    <scope>text.blade</scope>
     <description>Blade @for</description>
 </snippet>

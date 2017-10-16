@@ -5,6 +5,6 @@
 @endif
 ]]></content>
     <tabTrigger>Blade::if</tabTrigger>
-    <scope>text.html</scope>
+    <scope>text.blade</scope>
     <description>Blade @if</description>
 </snippet>

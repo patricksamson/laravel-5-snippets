@@ -3,6 +3,6 @@
 {!! ${1:some unescaped value} !!}
 ]]></content>
     <tabTrigger>Blade::unescaped</tabTrigger>
-    <scope>text.html</scope>
+    <scope>text.blade</scope>
     <description>Blade {!! echo raw data !!}</description>
 </snippet>

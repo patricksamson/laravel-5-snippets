@@ -1,9 +1,9 @@
 
 <snippet>
     <content><![CDATA[
-@stack('${1:stack name}')
+@stack('${1:name}')
 ]]></content>
     <tabTrigger>Blade::stack</tabTrigger>
-    <scope>text.html</scope>
+    <scope>text.blade</scope>
     <description>Blade @stack</description>
 </snippet>

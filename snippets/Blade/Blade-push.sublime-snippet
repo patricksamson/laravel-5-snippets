@@ -5,6 +5,6 @@
 @endpush
 ]]></content>
     <tabTrigger>Blade::push</tabTrigger>
-    <scope>text.html</scope>
+    <scope>text.blade</scope>
     <description>Blade @push</description>
 </snippet>

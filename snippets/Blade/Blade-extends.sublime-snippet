@@ -3,6 +3,6 @@
 @extends('${1:layouts.name}')
 ]]></content>
     <tabTrigger>Blade::extends</tabTrigger>
-    <scope>text.html</scope>
+    <scope>text.blade</scope>
     <description>Blade @extends</description>
 </snippet>

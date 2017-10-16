@@ -5,6 +5,6 @@
 @endwhile
 ]]></content>
     <tabTrigger>Blade::while</tabTrigger>
-    <scope>text.html</scope>
+    <scope>text.blade</scope>
     <description>Blade @while</description>
 </snippet>

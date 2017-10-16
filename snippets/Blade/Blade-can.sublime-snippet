@@ -7,6 +7,6 @@
 @endcan
 ]]></content>
     <tabTrigger>Blade::can</tabTrigger>
-    <scope>text.html</scope>
+    <scope>text.blade</scope>
     <description>Blade @can</description>
 </snippet>

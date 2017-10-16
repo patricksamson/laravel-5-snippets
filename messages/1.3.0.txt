@@ -19,6 +19,7 @@ https://github.com/Lykegenes/laravel-5-snippets
 #### NEW SNIPPETS
 
     - Auth : id(), login(), loginUsingId, once()
+    - Blade : improved Blade snippets triggers
     - Command : argument()
     - Helpers-misc : abort_if(), abort_unless(), app(), resolve(), config(), and many more!
 

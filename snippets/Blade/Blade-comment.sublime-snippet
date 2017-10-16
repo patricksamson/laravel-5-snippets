@@ -3,6 +3,6 @@
 {{-- ${1:some hidden comment} --}}
 ]]></content>
     <tabTrigger>{{--</tabTrigger>
-    <scope>text.html</scope>
+    <scope>text.blade</scope>
     <description>Blade comments</description>
 </snippet>

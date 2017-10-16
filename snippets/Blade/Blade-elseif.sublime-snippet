@@ -3,6 +3,6 @@
 @elseif (${1:\$condition})
 ]]></content>
     <tabTrigger>Blade::elseif</tabTrigger>
-    <scope>text.html</scope>
+    <scope>text.blade</scope>
     <description>Blade @elseif</description>
 </snippet>
