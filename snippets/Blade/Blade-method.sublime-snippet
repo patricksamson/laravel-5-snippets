@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+@method('${1:post}')
+]]></content>
+    <tabTrigger>Blade::method</tabTrigger>
+    <scope>text.blade</scope>
+    <description>Blade @method</description>
+</snippet>
