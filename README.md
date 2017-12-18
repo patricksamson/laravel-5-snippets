@@ -34,7 +34,7 @@ Here are the available snippet categories and prefixes :
 Prefix      | Notes
 ----------- | -------------
 Auth  |
-Blade  | Add `, text.html` to the default value of `"auto_complete_selector"` in your Sublime Text settings to allow Snippets autocomplete in Blade files.
+Blade  | The [Laravel Blade Highlighter](https://packagecontrol.io/packages/Laravel%20Blade%20Highlighter) package is required to enable Snippets autocomplete in Blade files.
 Cache  |
 Config  |
 Console  |
