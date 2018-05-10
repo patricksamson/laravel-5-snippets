@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-Schema::table('${1:users}', function(\$table) {
+Schema::table('${1:users}', function (Blueprint \$table) {
     ${3://}
 });
 ]]></content>
