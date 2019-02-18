@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-@foreach (${1:\$records} as ${2:\$record})
+@foreach (\$${1:records} as \$${2:record})
 	${3}
 @endforeach
 ]]></content>
