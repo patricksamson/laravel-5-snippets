@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+{{ asset('${1:content}') }}
+]]></content>
+    <tabTrigger>Blade::asset</tabTrigger>
+    <scope>text.blade</scope>
+    <description>Blade {{ asset() }}</description>
+</snippet>
