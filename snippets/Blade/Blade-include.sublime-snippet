@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-@include('${1:view.name}', ${1:\$data})
+@include('${1:view.name}')
 ]]></content>
     <tabTrigger>Blade::include</tabTrigger>
     <scope>text.blade</scope>
