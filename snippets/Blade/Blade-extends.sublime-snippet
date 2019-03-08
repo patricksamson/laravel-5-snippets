@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-@extends('${1:layouts.name}')
+@extends('${1:layouts}.${2:default}')
 ]]></content>
     <tabTrigger>Blade::extends</tabTrigger>
     <scope>text.blade</scope>

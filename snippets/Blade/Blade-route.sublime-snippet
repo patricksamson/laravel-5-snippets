@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+{{ route('${1:route.name}', \$${2:param}) }}
+]]></content>
+    <tabTrigger>Blade::route</tabTrigger>
+    <scope>text.blade</scope>
+    <description>Blade {{ route() }}</description>
+</snippet>
