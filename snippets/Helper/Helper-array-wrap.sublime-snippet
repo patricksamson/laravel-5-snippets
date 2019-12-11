@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+array_wrap(${1:\$array});
+]]></content>
+    <tabTrigger>Helper::array_wrap</tabTrigger>
+    <scope>source.php</scope>
+    <description>Wraps the given value in an array. If the given value is already an array it will not be changed.</description>
+</snippet>

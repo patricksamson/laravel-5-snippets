@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+@csrf
+]]></content>
+    <tabTrigger>Blade::csrf</tabTrigger>
+    <scope>text.blade</scope>
+    <description>Blade @csrf</description>
+</snippet>

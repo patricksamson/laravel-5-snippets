@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+data_get(${1:\$data}, ${2:'products.desk.price'}, ${3:'default'});
+]]></content>
+    <tabTrigger>Helper::data_get</tabTrigger>
+    <scope>source.php</scope>
+    <description>Retrieve a value from a nested array or object using "dot" notation.</description>
+</snippet>
