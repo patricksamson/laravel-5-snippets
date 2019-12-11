@@ -1,0 +1,32 @@
+<snippet>
+    <content><![CDATA[
+
+use Illuminate\Support\ServiceProvider;
+
+class ${1} extends ServiceProvider
+{
+    /**
+     * Register any package services.
+     *
+     * @return void
+     */
+    public function register()
+    {
+    	${2://}
+    }
+
+    /**
+     * Bootstrap package services.
+     *
+     * @return void
+     */
+    public function boot()
+    {
+    	${3://}
+    }
+}
+]]></content>
+    <tabTrigger>ServiceProvider::new</tabTrigger>
+    <scope>source.php</scope>
+    <description>Create a new service provider.</description>
+</snippet>
